@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pods Information</title>
+</head>
+<body>
+    <h1>Pods Information</h1>
+    <table border="1">
+        <tr>
+            <th>Pod Name</th>
+            <th>Namespace</th>
+            <th>Node Name</th>
+            <th>Node IP</th>
+        </tr>
+        {% for pod in pods_info %}
+        <tr>
+            <td>{{ pod.pod_name }}</td>
+            <td>{{ pod.namespace }}</td>
+            <td>{{ pod.node_name }}</td>
+            <td>{{ pod.node_ip }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
+

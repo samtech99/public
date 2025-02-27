@@ -1,0 +1,16 @@
+{
+  "name": "checkpoint_node",
+  "version": "1.0.0",
+  "main": "checkpoint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "node-fetch": "^3.3.2"
+  },
+  "description": ""
+}

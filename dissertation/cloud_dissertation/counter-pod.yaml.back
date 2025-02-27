@@ -1,0 +1,74 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: counter
+  labels:
+    purpose: demonstrate-logging
+spec:
+  securityContext:
+    fsGroup: 0
+  imagePullSecrets:
+    - name: docker.io
+  containers:
+    - name: counter
+      image: ubuntu
+      command: ["/bin/bash", "-c"]
+      args:
+        - |
+          COUNT=1;
+          while true; do
+            echo $(date) Count: $COUNT;
+            COUNT=$((COUNT+1));
+            sleep 1;
+          done;
+    - name: checkpoint
+      image: docker.io/markusfischer1/checkpoint_sidecar:latest
+      securityContext:
+        privileged: true
+        allowPrivilegeEscalation: true
+        capabilities:
+           add: ["SYS_ADMIN", "SETUID", "SETGID"]
+        runAsUser: 0  
+      env:
+        - name: SLEEP_TIME
+          value: "600"
+        - name: NAMESPACE
+          value: "default"
+        - name: _BUILDAH_STARTED_IN_USERNS
+          value: "" 
+        - name: BUILDAH_ISOLATION
+          value: "chroot"
+        - name: POD_NAME
+          valueFrom:
+            fieldRef:
+              fieldPath: metadata.name
+        - name: CONTAINER_NAME
+          value: counter
+        - name: NODE_IP
+          valueFrom:
+            fieldRef:
+              fieldPath: status.hostIP
+      volumeMounts:
+        - name: token-volume
+          mountPath: /var/run/secrets/kubernetes.io/serviceaccount
+          readOnly: true
+        - name: docker-config
+          mountPath: /etc/docker
+          readOnly: true
+        - name: nfs-volume # This name can stay as 'nfs-volume' for consistency, or you can rename it
+          mountPath: /nfs # Path inside the container where the /nfs directory from the host will be mounted
+  volumes:
+    - name: token-volume
+      secret:
+        secretName: criu
+    - name: docker-config
+      secret:
+        secretName: docker.io
+        items:
+          - key: .dockerconfigjson
+            path: auth.json
+    - name: nfs-volume # Again, this name can be anything
+      hostPath:
+        path: /nfs # The path on the host system
+        type: Directory # This specifies that the path must be a directory
+

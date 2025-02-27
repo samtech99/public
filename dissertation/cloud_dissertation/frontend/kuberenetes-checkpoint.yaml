@@ -1,0 +1,87 @@
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  name: checkpoint
+  namespace: kube-system
+---
+apiVersion: rbac.authorization.k8s.io/v1
+kind: ClusterRole
+metadata:
+  name: checkpoint
+rules:
+- apiGroups: [""]
+  resources: ["namespaces", "nodes", "pods", "pods/exec", "nodes/proxy", "proxy"]
+  verbs: ["get", "list", "watch", "delete", "create"] # Add other verbs as necessary
+---
+apiVersion: rbac.authorization.k8s.io/v1
+kind: ClusterRoleBinding
+metadata:
+  name: checkpoint
+subjects:
+- kind: ServiceAccount
+  name: checkpoint
+  namespace: kube-system
+roleRef:
+  kind: ClusterRole
+  name: checkpoint
+  apiGroup: rbac.authorization.k8s.io
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: checkpoint
+  namespace: kube-system
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: checkpoint
+  template:
+    metadata:
+      labels:
+        app: checkpoint
+    spec:
+      serviceAccountName: checkpoint
+      imagePullSecrets:
+        - name: docker.io
+      containers:
+      - name: pods-info
+        image: docker.io/markusfischer1/kubernetes-checkpoint:latest
+        ports:
+        - containerPort: 8080
+        env:
+        - name: DOCKER_REGISTRY_URL
+          value: "docker.io/markusfischer1"  
+        - name: CHECKPOINTS_DIR
+          value: "/var/lib/kubelet/checkpoints"
+        - name: REGISTRY_AUTH_FILE  # Tell Podman where to find the auth file
+          value: "/etc/docker/secrets/.dockerconfigjson"
+        securityContext:
+          privileged: true
+        volumeMounts:
+        - name: kubelet-checkpoints
+          mountPath: /var/lib/kubelet/checkpoints
+        - name: docker-config
+          mountPath: /etc/docker/secrets
+          readOnly: true
+      volumes:
+      - name: kubelet-checkpoints
+        hostPath:
+          path: /var/lib/kubelet/checkpoints
+          type: DirectoryOrCreate
+      - name: docker-config
+        secret:
+          secretName: docker.io
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: pods-info-service
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 8080
+    targetPort: 8080
+  selector:
+    app: pods-info
+

@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Pods Information and Live Migration</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
+</head>
+<body>
+<div class="container">
+    <h1 class="mt-5">Pods and Migration Management</h1>
+
+    <!-- Tab Navigation -->
+    <ul class="nav nav-tabs" id="myTab" role="tablist">
+      <li class="nav-item">
+        <a class="nav-link active" id="overview-tab" data-toggle="tab" href="#overview" role="tab" aria-controls="overview" aria-selected="true">Overview</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="live-migration-tab" data-toggle="tab" href="#live-migration" role="tab" aria-controls="live-migration" aria-selected="false">Live Migration</a>
+      </li>
+    </ul>
+
+    <!-- Tab Content -->
+    <div class="tab-content" id="myTabContent">
+      <!-- Overview Tab Pane -->
+      <div class="tab-pane fade show active" id="overview" role="tabpanel" aria-labelledby="overview-tab">
+        <div class="mt-3">
+        <table class="table sortable">
+            <thead class="thead-dark">
+                <tr>
+                  <th scope="col" onclick="sortTable(0)" data-sort-dir="asc">Pod_Name</th>
+                  <th scope="col" onclick="sortTable(1)" data-sort-dir="asc">Kind</th>
+                  <th scope="col" onclick="sortTable(2)" data-sort-dir="asc">Namespace</th>
+                  <th scope="col" onclick="sortTable(3)" data-sort-dir="asc">Node_Name</th>                  
+                  <th scope="col">Node_IP</th>
+                  <th scope="col">Container Name</th>
+                  <th scope="col">Actions</th>                  
+                </tr>
+            </thead>
+            <tbody>
+<% podsInfo.forEach(function(pod) { %>
+<tr>
+    <td><%= pod.pod_name %></td>
+    <td><%= pod.controllerKind %></td>
+    <td><%= pod.namespace %></td>
+    <td><%= pod.node_name %></td>
+    <td><%= pod.node_ip %></td>
+    <td>
+        <select id="containerSelect<%= pod.pod_name %>">
+            <% pod.containers.forEach(function(containerName, index) { %>
+                <option value="<%= containerName %>"><%= containerName %></option>
+            <% }); %>
+        </select>
+    </td>
+    <td>
+   <button onclick="createCheckpoint('<%= pod.node_ip %>', '<%= pod.namespace %>', '<%= pod.pod_name %>', '<%= pod.controllerKind %>', document.getElementById('containerSelect<%= pod.pod_name %>').value)">Checkpoint</button>
+   </td>
+</tr>
+<% }); %>
+
+	    </tbody>
+        </table>
+      </div>
+    </div>
+    
+<!-- Live Migration Tab Pane -->
+  <div class="tab-pane fade" id="live-migration" role="tabpanel" aria-labelledby="live-migration-tab">
+    <h3 class="mt-3">Live Migration</h3>
+    <div class="form-group">
+      <label for="namespaceSelect">Namespace</label>
+      <select class="form-control" id="namespaceSelect" onchange="updatePodsDropdown()">
+        <option value="default">default</option>
+          <% uniqueNamespaces.forEach(function(namespace) { %>
+              <option value="<%= namespace %>"><%= namespace %></option>
+          <% }); %>
+      </select>
+  </div>
+  
+    <div class="form-group">
+        <label for="podSelect">Pod</label>
+        <select class="form-control" id="podSelect" onchange="showPodDetails()">
+            <!-- Pods options will be dynamically filled based on the selected namespace -->
+        </select>
+    </div>
+    <div class="form-group">
+        <p>Current Node: <span id="currentNode"></span></p>
+        <p>Current Node IP: <span id="currentNodeIP"></span></p>
+    </div>
+    <div class="form-group">
+        <label for="targetNodeSelect">Target Node</label>
+        <select class="form-control" id="targetNodeSelect">
+            <!-- Target node options will be dynamically filled -->
+        </select>
+    </div>
+    <button class="btn btn-primary" onclick="migratePod()">Migrate</button>
+  </div>
+
+  </div>
+</div>
+
+<script>
+function createCheckpoint(nodeIp, namespace, podName, controllerKind, containerName) {
+    console.log(`Requesting checkpoint for ${podName}/${containerName} in namespace ${namespace} at node ${nodeIp}`);
+    console.log(`Container Name:`, containerName); 
+
+    fetch('/create-checkpoint', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ nodeIp, namespace, podName, controllerKind, containerName }),
+    })
+    .then(response => response.json())
+    .then(data => console.log('Response from server:', data))
+    .catch(error => console.error('Error:', error));
+}
+
+
+function sortTable(columnIndex) {
+    var table, rows, switching, i, x, y, shouldSwitch, dir;
+    table = document.querySelector(".table");
+    switching = true;
+    const currentTh = document.querySelectorAll("th")[columnIndex];
+    dir = currentTh.getAttribute("data-sort-dir") === "asc" ? "asc" : "desc";
+
+    // Reset icons for all columns except the current one
+    document.querySelectorAll("th").forEach((th, idx) => {
+        if (idx !== columnIndex) {
+            th.innerHTML = th.innerHTML.split(" ")[0]; // Remove icons
+            th.setAttribute("data-sort-dir", "asc"); // Reset to default direction
+        }
+    });
+
+    // Toggle sort direction and update icon for current column
+    if (dir === "asc") {
+        currentTh.setAttribute("data-sort-dir", "desc");
+        currentTh.innerHTML = currentTh.innerHTML.split(" ")[0] + " &#x25BC;";
+    } else {
+        currentTh.setAttribute("data-sort-dir", "asc");
+        currentTh.innerHTML = currentTh.innerHTML.split(" ")[0] + " &#x25B2;";
+    }
+
+    while (switching) {
+        switching = false;
+        rows = table.rows;
+        for (i = 1; i < rows.length - 1; i++) {
+            shouldSwitch = false;
+            x = rows[i].getElementsByTagName("TD")[columnIndex];
+            y = rows[i + 1].getElementsByTagName("TD")[columnIndex];
+            if (dir === "asc" ? x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase() : x.innerHTML.toLowerCase() < y.innerHTML.toLowerCase()) {
+                shouldSwitch = true;
+                break;
+            }
+        }
+        if (shouldSwitch) {
+            rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+            switching = true;
+        }
+    }
+}
+
+
+document.addEventListener('DOMContentLoaded', function() {
+    fetchNamespaces(); // Initial fetch for namespaces
+    fetchNodes(); // Fetch available nodes for migration target; this can be done ahead if the list of nodes doesn't change often
+});
+
+function fetchNamespaces() {
+    // Fetch namespaces from your API and populate the #namespaceSelect dropdown
+    fetch('/api/namespaces')
+        .then(response => response.json())
+        .then(data => {
+            const namespaceSelect = document.getElementById('namespaceSelect');
+            namespaceSelect.innerHTML = ''; // Clear previous options
+            data.forEach(namespace => {
+                const option = document.createElement('option');
+                option.value = namespace; // Assuming the API returns an array of namespace names
+                option.textContent = namespace;
+                namespaceSelect.appendChild(option);
+            });
+        })
+        .catch(error => console.error('Error fetching namespaces:', error));
+}
+
+function fetchNodes() {
+    fetch('/get-nodes')
+        .then(response => response.json())
+        .then(data => {
+            const nodeSelect = document.getElementById('targetNodeSelect');
+            nodeSelect.innerHTML = ''; // Clear previous options
+            data.forEach(node => {
+                const option = document.createElement('option');
+                option.value = node.name; // Assuming the API returns an array of objects with node names and IPs
+                option.textContent = node.name;
+                nodeSelect.appendChild(option);
+            });
+            // Call updatePodsDropdown() or showPodDetails() to ensure the dropdown is updated accordingly
+            updatePodsDropdown(); // This might need adjustment based on your application's flow
+        })
+        .catch(error => console.error('Error fetching nodes:', error));
+}
+
+
+
+
+function updatePodsDropdown() {
+    const namespaceSelect = document.getElementById('namespaceSelect');
+    const selectedNamespace = namespaceSelect.value;
+    const podSelect = document.getElementById('podSelect');
+
+    // Clear current options and reset podsInfo
+    podSelect.innerHTML = '';
+    podsInfo = []; // Reset pods info
+
+    // Fetch pods for the selected namespace
+    fetch(`/get-pods?namespace=${selectedNamespace}`)
+        .then(response => response.json())
+        .then(pods => {
+            pods.forEach(pod => {
+                const option = document.createElement('option');
+                option.value = pod.name;
+                option.textContent = pod.name;
+                podSelect.appendChild(option);
+
+                // Update podsInfo with fetched pod details, including node name and IP if available
+                podsInfo.push({ name: pod.name, nodeName: pod.nodeName, nodeIp: pod.nodeIp });
+            });
+        })
+        .catch(error => console.error('Error fetching pods:', error));
+}
+
+
+
+let podsInfo = [];
+
+function showPodDetails() {
+    const podSelect = document.getElementById('podSelect');
+    const selectedPodName = podSelect.value;
+
+    // Find the selected pod's details from podsInfo array
+    const selectedPod = podsInfo.find(pod => pod.name === selectedPodName);
+    if (selectedPod) {
+        document.getElementById('currentNode').textContent = selectedPod.nodeName;
+        document.getElementById('currentNodeIP').textContent = selectedPod.nodeIp;
+    } else {
+        // Reset the text content if no pod is selected or pod details are not found
+        document.getElementById('currentNode').textContent = 'N/A';
+        document.getElementById('currentNodeIP').textContent = 'N/A';
+    }
+}
+
+function migratePod() {
+    const namespace = document.getElementById('namespaceSelect').value;
+    const podName = document.getElementById('podSelect').value;
+    const targetNode = document.getElementById('targetNodeSelect').value;
+    // Send a request to your backend to initiate the pod migration
+    console.log(`Migrating ${podName} from ${namespace} to node ${targetNode}`);
+}
+
+
+
+</script>
+</body>
+</html>
+
