@@ -1,0 +1,129 @@
+Annalen d PHYSIK. Jahrgang 1808, dritt Stück.
+i. Beobachtung über d Stärke und über d Neigung d magnetisch Kraft, anstellen in Frankreich, d Schweiz, Italien und Deutschland, von Alex. von Humboldt und Gay-Lussac.
+Vorgelesen von letztere im Nat.-Inst. am 8ten Sept. 1806. (memoires de la Soc. D'Arcueil, T. I, P. 1f.)
+d Ursache und d Gesetz d Erde-Magnetismus sein noch immer in Dunkel hüllen, ungeachtet d Fortschritt, welche d Physik in ander Teil machen haben.
+d täglich, so wie d säkular Variation d Magnetnadel, ihr Neigung und Abweichung an d vornehm Punkt d Erde, d Stärke d magnetisch Kraft, d Zahl und d Gestalt d Bande ohne Abweichung; alle die sein bis jetzt nur wenig bekannt.
+d Beobachtung von Reisende und Physiker haben bisher fast allein d Abweichung betreffen, und sie liegen zu weit aus einander, und sein mit Instrument und nach Methode anstellen, welche zu wenig genau sein, als dass es möglich sein, auf sie d Grundpfeiler eine Theorie zu gründen, welche alle Erscheinung d Erdemagnetismus umfassen.
+d Wunsch, dazu beitragen, d nötig Material herbei zu schaffen, von die d Fortschreiten unsere Kenntnis in diese Teil d Physik abhängen, haben wir, Hrn. von Humboldt und ich, bewegen, eine Reihe von Versuch über d Stärke und d Neigung d magnetisch Kraft zu unternehmen.
+wir haben wir damit auf eine Reise durch Frankreich, durch d Schweiz, durch Italien und durch Deutschland beschäftigen; diese Reise dauern eine Jahr, und ich haben auf ihr d viel umfaßend Kenntnis meine Freund benutzen.
+d Beobachtung, welche wir auf diese Reise machen haben, legen ich heute d national- Institut vor.
+d kurz Zeitraum, innerhalb die sie machen sein, (sie fallen alle zwischen d 15ten März 1805 und d 1sten Mai 1806, und es sein daher so gut, als sein sie alle gleichzeitig,) d groß Raum, die sie umfassen, und wir dürfen hinzu fügen, ihr Genauigkeit, lassen wir hoffen, dass sie für d National-Institut einiges Interesse haben werden.
+Art, zu beobachten und d Beobachtung zu berechnen.
+zur Bestimmung d Neigung d magnetisch Kraft haben wir uns eine Bordaischen Inklinations-Baussole bedienen; sie sein von Lenoir für d Expedition von D'Entrecasteaux machen und wir von d Minister d Marine anvertrauen werden.
+d horizontal Schwingung beobachten wir vermittels eine rechtwinklig Magnetstab, die an eine Faden roh Seide in eine Kasten hangen, welche an zwei gegen über stehend Seitenfläche Glasscheibe haben und d Bewegung d Luft abhalten.
+d Einfachheit diese Instrument, d groß Genauigkeit, welche sich damit erreichen lassen, und Bordas Methode, aus d Schwingung d Nadel auf d Kraft zu schließen, welche diese bewirken; d alle sein jetzt allgemein bekannt.
+nicht so sein es vielleicht d gut Methode, wie man d Neigung und d Stärke d magnetisch Kraft an eine gegeben Ort beobachten.
+man scheinen darüber noch verschieden Meinung zu sein, und diese bestimmen wir, hier bei in einiges Detail eingehen.
+befinden sich d Inklinations-Nadel genau in d magnetisch Mittagsebene, und werden dann d Ebene d Nadel eine wenig zur Rechte oder zur Linken drehen, so nehmen jede Mal ihr Neigung zu.
+eine Mittel, sie genau in d magnetisch Meridian zu stellen, werden also sein, d Ebene zu suchen, in welcher ihr Neigung am klein sein.
+diese Verfahren sein indes so einfach und leicht nicht, als es auf d erst Anblick scheinen, und wir werden sogleich sehen, dass es eine genau und schnell Mittel geben.
+stehen d Ebene d Inklinations-Nadel senkrecht auf d magnetisch Mittagsebene, so müssen d Nadel eine völlig senkrecht Lage annehmen, weil in diese Falle d Teil d magnetisch Kraft, welche horizontal wirken, auf d Lage d Nadel keine Einfluß haben.
+hierdurch werden es ausnehmend leicht, jen Ebene zu finden; besonders da man nicht abwarten brauchen, bis d Nadel in Ruhe kommen sein, um über ihr Lage zu urteilen, sondern zu d Ende nur d Grenze ihr Schwingungsbogen zu beobachten nötig haben.
+sein beide nicht gleich entfernt von d senkrecht Linie durch d Drehungsachse d Nadel, so drehen man d Ebene; und zwar haben eine sehr klein Drehung schon eine bedeutend Einfluß auf d Lage d Nadel, da d horizontal Kraft mit d Sinus d Winkel wachsen, die d Ebene d Nadel mit d Ebene machen, die senkrecht auf d magnetisch Meridian stehen.
+haben man auf diese Art d letztere Ebene finden, so sein auch d magnetisch Mittagsebene bekannt.
+man drehen nämlich d Ebene d Nadel um 90° weiter, und bestimmen dann d Neigung.
+da aber d Reibung an d Achse machen können, dass d Nadel etwas hoch oder tief stehen bleiben, als sie sollen, so müssen man notwendig mehrere Beobachtung machen, und aus sie d Mittel nehmen.
+sein alle Inklinations-Nadel fehlerlos, so haben man nun d wahr Neigung.
+die sein sie aber höchst selten, und deshalb bedürfen es noch einige Korrektion, die man folgend Masse finden.
+d Schwerpunkt d Nadel können außerhalb d Aufhängungsachse und außerhalb eine gerade Linie, welche mitten durch d Nadel gehen, liegen; und dann sein d magnetisch Mittagsebene nicht mehr senkrecht auf d Ebene, in welche d Nadel vertikal stehen.
+man finden d wahr magnetisch Mittagsebene, wenn man d Ebene d Nadel so weit drehen, bis d Nadel wiederum senkrecht stehen, und d Bogen zwischen beide Lage halbieren.
+auch d beobachtet Neigung bedürfen eine Korrektion, da sie zu klein oder zu groß sein, je nachdem d Schwerpunkt d Nadel hoch hinauf oder tief hinab als d Aufhängungsachse liegen.
+verkehren man d Pole d Nadel, so fällen d Schwerpunkt auf d entgegen gesetzt Seite d Achse, wie zuvor, und d Mittel aus d Beobachtung geben d wahr Neigung.
+es sein jedoch nicht nötig, dass man d Pole d Nadel jede Mal umkehren, wenn man d Neigung bestimmen wollen.
+sein d Korrektion an eine Ort finden, so lassen sie sich ohne merkbar Fehler für Ort, die nicht zu weit von einander entfernen sein, als beständig annehmen, voraus setzen, dass d Nadel selbst keine Veränderung erleiden.
+Herr Laplace haben noch eine andere eben so einfach Methode vorschlagen, um d Neigung d Magnetnadel zu bestimmen.
+wenn M und P d Zahl d Schwingung bedeuten, welche d Inklinations-Nadel in gleich Zeit, die eine Mal in d magnetisch Mittagsebene, d zweit Mal in d auf ihr senkrecht Ebene, machen, so werden d Inklination d Nadel i durch folgend Formel geben:
+[formel] da d Zeit d Schwingung sich mit Schärfe messen lassen, so sein wir überzeugen, dass diese Methode zu eine sehr groß Genauigkeit führen können; wir müssen indes bedauern, dass unsere Nadel, die nicht sehr groß und nicht im hoch Grad beweglich sein, wir nicht erlauben, eine hinlänglich groß Zahl von Schwingung zu zählen, um diese Methode mit Erfolg anwenden.
+Vergl. d Abhandlung d Herr von Humboldt und Biot in d Annalen, Xx, 262, Anm., (Jahrg. 1805, St. 7.) Gilb.
+d Stärke d magnetisch Kraft finden sich, wenn man d Inklinations-Nadel in ihr Mittagsebene schwingen lassen und d Zahl von Schwingung in dieselbe Zeit vergleichen: sie sein proportional d Quadrat diese Zahl.
+es sein indes möglich, dass d Nadel in d Zwischenzeit d Beobachtung eine Veränderung erleiden, und in diese Falle werden in alle Beobachtung eine Fehler mit eingehen, die bedeutend sein können.
+man können zwar d Pole d Nadel verkehren und sie bis zur Sättigung magnetisieren, allein d Verschiedenheit, welche sich in d Schwingung zeigen, wenn man d Nadel zwei Mal nach entgegen gesetzt Richtung magnetisieren, sein häufig so groß, dass man es sich bei Beobachtung, welche Genauigkeit erfordern, nicht erlauben dürfen, diese Veränderung zu machen.
+d Methode, die wir wir bedienen haben, scheinen keine diese Bedenken aussetzen zu sein.
+sie bestehen darin, dass man d Schwingung eine horizontal schwebend Magnetnadel, welche an eine Faden aufhängen sein, missen, und aus sie und d bekannt Neigung an d Ort auf d Zahl von Schwingung schließen, welche sie in ihr wahr Lage machen haben werden.
+es sein F d ganz magnetisch Kraft an eine bestimmt Ort, i d Neigung, und n d Zahl von Schwingung, welche in d horizontal Ebene während d Zeit T an jen Ort geschehen, so sein d Anzahl von Schwingung, welche d Nadel in ihr wahr Lage während d Zeiteinheit machen haben werden, = [formel] und wollen man d Intensität d magnetisch Kraft an diese Ort sogleich mit die F' an eine ander Ort vergleichen, so haben man [formel]
+diese sein d Mittel, die wir anwenden haben, um d Neigung und d Stärke d magnetisch Kraft an verschieden Ort zu bestimmen, welche wir auf unsere Reise berühren haben.
+wir haben d Resultat alle unsere Beobachtung in eine Tabelle zusammen stellen, (die man am Ende diese Aufsatz finden).
+sie enthalten d Name unsere Beobachtungsort; die Breite und Länge; eine Reduktion dieselbe auf d magnetisch Äquator, wie er nach d Beobachtung d Herr Lamanon und von Humboldt in Amerika, Herr Biot bestimmen haben, damit man unsere Beobachtung mit d Bioschen Formel vergleichen können; ferner d Neigung, eine Mal, wie wir sie an jede Ort beobachten haben, zweitens, wie sie aus d Bioschen Formel folgen, und d Unterschied beide; endlich d Zahl von Sekunde, welche an jede Ort auf 60 Schwingung unsere horizontal Magnetnadel hingehen, und d diese Beobachtung entsprechend Stärke d ganz magnetisch Kraft.
+und zwar haben wir, um unsere Resultat auf eine schicklich Art mit einander zu vergleichen, zur Einheit d Vergleichung d Stärke d magnetisch Kraft unter d magnetisch Äquator nehmen, wie sie aus d Beobachtung folgen, welche eine von wir anstellen haben, und sie gleich 10000 setzen.
+diese früh Beobachtung lehren, dass eine Inklinations-Nadel, welche in Paris in eine bestimmt Zeit 245 Schwingung machen, unter d magnetisch Äquator in dieselbe Zeit nur 211 Schwingung vollenden.
+da wir nun d Neigung und d Zahl horizontal Schwingung unsere Nadel in Paris kennen, so lassen sich daraus d Zahl d Schwingung berechnen, welche sie in Paris, und dann auch d, welche sie unter d magnetisch Äquator machen haben werden, haben sie sich an beide Ort in d wahr Richtung d magnetisch Kraft befinden.
+denn, voraus setzen, d Intensität, welche an verschieden Ort durch zwei Nadel geben werden, sein einander proportional, so müssen diese auch d Zahl ihr Schwingung an jen Ort während dieselbe Zeit sein.
+über d Variation d Erdemagnetismus in verschieden Breiten, von d Herr von Humboldt und Biot, Annalen, Xx, 272 und 282. Gilbert.
+wir haben bei unsere Beobachtung jede Mal Sorge tragen, d Natur d Boden und d Höhe d Ort über d Meeresfläche zu bestimmen, und beide nehmen eigen Spalte in unsere Tabelle ein.
+einige Gebirgesart können ihr Natur nach gar keine Einfluß auf d Magnetnadel haben; andere dagegen wirken manchmal auf sie sehr stark, wie z. B. d Basalt und d Serpentine, die nicht selten viel Eisen enthalten.
+d Beobachtung haben lehren, dass in weit groß Höhe, als bis zu welchen man sich auf Berg erheben können, d magnetisch Kraft nicht bemerkbar schwach als an d Oberfläche d Erde sein; und hiernach scheinen es unnötig zu sein, auf d Höhe d Beobachtungsort über d Meer zu sehen.
+sie dienen wenigstens, eine Idee von d Einfluß zu geben, die d Erhöhung auf d Nadel haben werden, wenn sie Eisen enthalten.
+über diese hängen d physikalisch Beschaffenheit eine Landstrich eben so sehr von d Erhöhung über d Meeresfläche, als von d geographisch Lage ab, und es haben wir interessant scheinen, alle angeben, was dazu dienen können, sie kennen zu lernen, da man bis jetzt diese Gegenstand allzu sehr vernachlässigen haben.
+Vergl. Bericht Gay-Lussaces von seine aerostatisch Reise am 16ten Sept. 1804. Annalen, Xx, 19 F. Gilb.
+wir erhalten in Paris erst am Tag vor unsere Abreise d Instrument zu unsere Disposition.
+es sein wir daher nicht möglich, dort d Neigung und d Stärke d magnetisch Kraft zu bestimmen.
+unsere Beobachtung fangen sich an zu Villeneuve an d Yonne, und von da an haben wir sie auf unsere ganz Reise an alle Ort anstellen, die einige Aufmerksamkeit verdienen.
+ich müssen jedoch bemerken, dass d Stärke d magnetisch Kraft, wie ich sie eine Jahr spät nach meine Rückkehr zu Paris finden haben, mit d übrig Beobachtung, was d Schwingungsnadel betreffen, vollkommen harmonieren müssen.
+denn wir sein zwei Mal in Mailand sein, d zweit Mal 6 Monat spät als d erst Mal, und wir finden, dass unsere Nadel beide Mal genau dieselbe Zahl von Schwingung in eine Sekunde machen, so wohl innerhalb als außerhalb d Stadt.
+da d Beobachtung, welche wir zu Turin über d Stärke d magnetisch Kraft machen haben, durch d Einfluß eine ganz besondere Ursache gar sehr von d Gesetz abweichen scheinen, welche unsere übrig Beobachtung befolgen, und die auf eine entgegen gesetzt Art; so vergleichen wir zu Mailand d Schwingung eine neu Nadel mit die unsere Nadel, und überschicken dann jen Herr Vassalli, die d Güte haben haben, ihr Schwingung an verschieden Ort innerhalb und außerhalb Turin zu zählen.
+nach diese Resultat haben wir d Zahl von Schwingung berechnen, welche unsere Nadel in Turin machen haben werden.
+noch müssen wir, bevor wir weiter gehen, eine Wort über d Grad d Genauigkeit sagen, die sich bei diese Art von Versuch erlangen lassen, damit man durch klein Anomalie, welche sich in unsere Resultat finden können, nicht irre werden.
+was zuerst d Inklination betreffen, so werden es selbst bei vollkommen Windstille schwer sein, mit eine Instrument von 0m,07 (21/2 Zoll) Halbmesser, sie mit eine Genauigkeit von mehr als etwa 6 Minute zu bestimmen.
+auf eine Reise, wo es häufig an Zeit und an Bequemlichkeit fehlen, müssen d Grenze d möglich Fehler noch etwas weiter aus einander liegen; doch glauben wir, dass d groß Fehler unsere Versuch, besonders die, die wir auf d Reise von Rom nach Berlin anstellen haben, nicht über 10 Minute betragen.
+wie weit d Einfluß örtlich Besonderheit gehen können, darüber lassen sich nichts bestimmen, obschon er im Ganze ziemlich klein sein müssen.
+nicht immer haben wir unter frei Himmel beobachten können; doch haben wir in diese Falle stets d groß Zimmer auswählen, und alle d vermeiden, wo wir irgend eine bedeutend Eisenmasse wahrnehmen.
+bei d horizontal Schwingung können wir für ihr vollkommen Genauigkeit einstehen.
+d Zeit nehmen wir jede Mal nach eine Chronometer von Berthoud, und d weit Beobachtung sein ohne d gering Schwierigkeit.
+an demselben Ort geben sie stets d groß Übereinstimmung.
+scheinen es, bei Vergleichung d horizontal Schwingung an verschieden Ort, als beobachten sie keine vollkommen regelmässig Gesetz, so müssen man d Ursache davon in Örtlichkeit suchen.
+diese betreffen d Art, wie wir unsere Beobachtung anstellen, reduzieren und mit einander vergleichen haben.
+jetzt wenden wir uns
+zu d Resultat dieselbe.
+es sein eine d Hauptzwecke unsere Reise, wir zu vergewissern, ob d hoch Kette d Alpe eine Einfluß auf d Stärke und auf d Neigung d magnetisch Kraft haben.
+wir haben sie zwei Mal, und die an zwei verschieden Ort, übersteigen; d erst Mal d Mont Ceni auf d Weg von Lyon nach Turin, und d zweit Mal d St. Gotthard auf d Weg von Como nach Alttorf.
+man sehen in d Tafel unsere Beobachtung, dass d Neigung betragen: zu Lyon 66°14'; zu Chambery, St. Michel und Modane, welche mit Lyon fast in einerlei Breite und in d Kette selbst liegen, 66°12', 66°12', 66°6'; zu Lanslebourg am Fuß d Mont Ceni 66°9'; auf d Mont Ceni selbst, im Hospitium, in eine Höhe von 2120 Meter, 66°22'; endlich zu Turin an d ander Seite d Alpenkette 66°3'.
+Turin liegen eine wenig südlich als Lyon, daher dürfen es uns nicht überraschen, wenn dort d Abweichung 11' klein sein.
+sein auf d Mont Ceni d Neigung stark, als sie es im Vergleich mit d Beobachtung an d in d Nähe, in d Kette d Alpe liegend Ort Chambery, St. Michel, Montane und Lanslebourg sein müssen; so scheinen sie doch ungefähr so zu sein, wie sie sein sollen, wenn man auf d geographisch Lage allein sehen.
+aus diese gering Vermehrung d Neigung an eine einzig Beobachtungsort lassen sich folglich nichts schließen, und die um so wenige, da wir auf d St. Gotthard in eine gleich Höhe, im Gegenteil eine etwas gering Neigung als zu Airolo am südlich und zu Urserum am nördlich Abhang d Gotthard finden haben.
+auch d Einfluß d Alpe auf d Stärke d magnetisch Kraft finden wir im allgemein sehr gering, sein anders überhaupt eine solch Einfluß vorhanden.
+zu Lyon sein d Stärke fast dieselbe als zu Turin; auf d Mont Ceni sein sie eine wenig groß, zu Lanslebourg dagegen eine wenig klein als in jen beide Stadt.
+im Hospiz auf d St. Gotthard finden wir sie ungefähr um 0,005 groß als zu Airolo und zu Urserum, und 0,01 klein als zu Alttorf.
+auch müssen man etwas auf d Fehler d Beobachtung rechnen; denn eine Fehler von einige Minute in d Neigung haben eine Irrtum von einige Tausendtela in d Stärke d magnetisch Kraft zur Folge.
+es lassen sich ferner glauben, bevor nicht d Gegenteil beweisen sein werden, dass in d Neigung ähnlich Variation als in d Abweichung zu verschieden Stunde d Tag und d Nacht Stadt finden.
+aber selbst, wenn wir zugeben wollen, dass eine Verschiedenheit Stadt finden, welche von d Alpe herrühren, so gehen sie doch nur auf eine Hunderttele, wenn man einige Ort, die mitten in d Kette liegen, mit andere weit davon entfernt vergleichen, und für andere sein sie noch klein.
+wir glauben folglich zu d Schluß berechtigen zu sein, dass d Kette d Alpe, wenigstens an d Ort, wo wir über sie kommen sein, eine nur wenig merkbar Einfluß auf d Neigung und auf d Stärke d magnetisch Kraft haben.
+während unsere Aufenthalt auf d Mont Ceni, wo wir uns mit ander Versuch beschäftigen, wollen wir uns überzeugen, ob nicht d Stärke d magnetisch Kraft auf eine merkbar Art variieren, während d verschieden Stunde d Tag und d Nacht.
+wir lassen zu d Ende zu verschieden Zeit unsere Nadel 250 Schwingung machen; nie finden sich indes in d Zeit von 1234", welche sie dazu brauchen, eine groß Unterschied, als von eine einzig Sekunde mehr oder wenige.
+wir haben noch eine Mal zu Rom eine groß Anzahl von Versuch dieselbe Art anstellen, und erhalten eine ähnlich Resultat.
+es scheinen uns hiernach evident zu sein, dass d magnetisch Kraft an Stärke nicht merkbar während d Tag oder d Nacht variieren.
+wir bemerken für d, welche sich mit diese Gegenstand beschäftigen wollen, dass man d langweilig Zählen alle Schwingung bei jede Beobachtung überheben sein können, wenn man eine sehr träge Nadel nehmen, die zu jede Schwingung mehr Zeit bedürfen, als d Variation nach alle Vermutung betragen; man können sich nämlich dann d Mittel d Astronom bei Beobachtung d Umlauf d Sonnenfleck bedienen.
+unter d Voraussetzung, dass alle magnetisch Erscheinung gegenseitig von einander abhängen, lassen sich hieraus schließen, dass d Neigung gleichfalls keine wahrzunehmend Variation unterwerfen sein, da schon d d Abweichung sehr gering sein.
+G.-L.
+während unsere kurz Aufenthalt in Neapel sein wir Zeuge d heftig Erdbeben am 26sten Julius, und d Ausbruch d Vesuv am 12ten Aug. 1805.
+wir versäumen diese Gelegenheit nicht, nachforschen, welchen Einfluß diese Vulkan auf d Stärke und auf d Neigung d magnetisch Kraft haben mögen.
+man wissen, dass unter d Produkt d vulkanisch Ausbruch manchmal sehr viel Eisen vorkommen, die nur wenig oxidieren sein und auf d Magnetnadel stark wirken.
+es scheinen daher, man dürfen von d Vulkan eine groß Einfluß auf beide erwarten; wir werden aber sehen, dass diese Einfluß bei d Vesuv nur sehr einschränken sein.
+d Neigung finden wir nämlich zu Neapel, welche ungefähr 2 Stunde vom Vulkan entfernt liegen, 61° 35'.
+von Ort ab, die sehr viel nördlich liegen, nehmen bis Neapel d Neigung ziemlich regelmässig ab.
+zu Portici, welche über d verschüttet Herculanum stehen, und durch d mehrere Lavastrom gehen, finden wir d Neigung 60°50'; bei d Einsiedelei St. Salvator, ungefähr auf d halb Höhe d Vesuv und neben neu Lavastrom, 62°15'; und endlich im Krater d Vesuv selbst auf Schlacke, 62°0'.
+man sehen, dass zwar diese Neigung alle verschieden sein, dass ihr Unterschied aber so groß nicht sein, als man haben erwarten sollen, und dass, wenn d Vesuv eine Einfluß auf d Neigung d Magnetnadel haben, diese Einfluß wenigstens sehr klein und sehr lokal sein.
+bei d Einsiedelei zu St. Salvador sein d Neigung um 40' groß, zu Portici um 35' klein als zu Neapel.
+d Stärke d magnetisch Kraft scheinen merklich und auf eine unregelmässig Art variieren zu haben.
+Neapel liegen südlich als Rom, und doch finden wir sie dort um [formel] tel groß.
+zu Portici sein sie noch um [formel] Stele und in d Einsiedelei um [formel] Stele groß als zu Neapel.
+im Krater d Vesuv dagegen sein sie um [formel] tel klein.
+eine so groß Unregelmäßigkeit, und eine so schnell Abnehmen in d Stärke, vom Fuß d Vesuv bis zur Spitze, beweisen, dass sich diese Vulkan für keine magnetisch Zentrum nehmen lassen; denn d Einwirkung eine solch müssen sich in d Ferne erstrecken.
+hier scheinen im Gegenteil d Einwirkung sehr lokal zu sein, und lediglich von d Einfluß einige Lavamasse abhängen, die an einige Stelle etwas eisenreich als an andere sein.
+als wir mitten im Krater auf vulkanisch Schlacke stehen, können unsere Nadel, welche d horizontal Schwingung machen, sich nahe bei eine magnetisch Schlacke befinden, die Pole eine entgegen gesetzt Lage als d ihrige haben; daraus werden sich d Verminderung in d Stärke erklären, die unsere Beobachtung geben.
+doch welchen Grund man auch sonst noch dafür annehmen wollen, durch d glühend Materie, welche d Vesuv in sich schließen, lassen sie sich nicht erklären.
+denn setzen, es sein richtig, dass d Hitze d Kraft eine Magnet zerstören, so sein doch eine Vulkan eine bloß Punkt auf d Erde, und d Einwirkung d magnetisch Kern d Erde werden auf dieselbe Art in d Innere d Vulkan dringen, und sich über dasselbe hinaus verbreiten, wie sie in d Raum, die sich über d Oberfläche d Erde befinden, eindringen, und sich durch dieselbe fortpflanzen.
+wir wollen zuletzt noch eine allgemein Überblick unsere Beobachtung von Berlin bis Neapel nehmen.
+d Spalte d folgend Tabelle, welche d Zeit angeben, die auf 60 horizontal Schwingung hingehen, zeigen, dass diese Zeit zugleich mit d Breite abnehmen.
+sie betragen in Berlin 316"",5, in Paris 314", in Mailand 295",5, in Rom 281",8, und in Neapel selbst nur 279".
+augenscheinlich wachsen also d horizontal Kraft von Berlin ab immer mehr, wenn man sich d magnetisch Äquator nähern.
+diese müssen im Ganze stets d Fall sein; immer müssen im Ganze d Stärke d horizontal magnetisch Kraft in hoch Breiten klein sein; doch lassen sich denken, dass vermögen d wir noch unbekannt Gesetz d Erde-Magnetismus, eine Maximum d horizontal Kraft in irgend eine breit Stadt finden.
+d Lage eine solch Punkt werden für d Auffindung jen Gesetz wichtig sein.
+unsere Beobachtung zu Folge können er sich nur in klein Breiten, als in d von Neapel befinden.
+berechnen man aus d horizontal Schwingung d Schwingung, welche d Nadel machen haben werden, haben sie sich in d wahr Richtung d magnetisch Kraft befinden, so finden man für d ganz Stärke d magnetisch Kraft eine ander Gesetz: sie nehmen ab, indem d Breite abnehmen.
+wenn sie unter d Äquator gleich 10000 sein, so betragen sie in Berlin 13703, in Paris 13482, in Lyon 13334, in Mailand 13364, in Rom 12642, und in Neapel 12745.
+also finden sich d von Hrn. von Humboldt auf seine Reise zwischen d Wendekreis entdecken Gesetz, dass d Stärke d magnetisch Kraft wachsen, wenn man sich von d magnetisch Äquator nach d Pole zu entfernt, auch für Europa, in Frankreich, Italien und Deutschland bestätigen.
+Annalen, Xx, 270 F. Gilb.
+Betrachten wir d Neigung d magnetisch Kraft, so zeigen sich, dass sie zugleich mit d Breiten auf eine ziemlich regelmässig Art abnehmen.
+wir haben sie finden in Berlin 69°53', in Göttingen 69° 29', (und eben daselbst Herr Mayer 69° 26',) in Paris 69°12', in Lyon 66°14', in Mailand 65°40', in Rom 61° 57', und zu Neapel 61°35'.
+d sie entsprechend Neigung, welche nach Herr Biot d Theorie geben, sein alle viel zu groß; d klein Unterschied betragen voll 4°. nehmen wir an, dass d Lage d magnetisch Äquator mit Genauigkeit bestimmen sein, so werden hieraus folgen, dass in Europa d magnetisch Parallelkreis bedeutend nach d Äquator zu biegen sein, wovon d Grund in d Einwirkung eine besondere magnetisch Zentrum zu suchen sein werden.
+allein noch sein es zu früh, hierüber irgend etwas zu folgern, und wir müssen zuvor genau Beobachtung in groß Menge haben, um auf sie als eine fest Grundlage eine Exacte Theorie zu gründen, welche sie alle umfassen.

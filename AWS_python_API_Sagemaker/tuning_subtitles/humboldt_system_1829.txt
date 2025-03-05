@@ -1,0 +1,387 @@
+Journal für d rein und angewendt Mathematik.
+in zwanglos Heft.
+herausgeben von A. L. Crelle.
+mit tätig Beförderung hoch königlich-preußisch Behörde.
+Vierter Band, in 4 Heft.
+mit 3 Kupfertafel.
+Berlin, bei G. Reimer. 1829.
+17. über d bei verschieden Volk üblich System von Zahlzeichen und über d Ursprung d Stellenwert in d indisch Zahl.
+(Vorgelesen in eine Klassen-Sitzung d Königl. Akademie d Wissenschaft zu Berlin, d 2. März 1829.)
+(von Sr. Exzellenz d Königl. wirkl. Geheimen-Rate, Herr Freiherr Alex. Von Humboldt.)
+man haben sich bisher, in d Untersuchung über d numerisch Zeichen (d einzig Hieroglyphe, welche sich bei d Volk d alt Kontinent neben d tonzergliedernd Buchstaben-Schrift erhalten haben,) ernst mit d charakteristisch Physiognomik d Zeichen und ihr individuell Gestaltung, als mit d Geist d Methode beschäftigen, durch welche es d menschlich Scharfsinn glücken sein, Größe mit mehr oder wenige Einfachheit ausdrücken.
+d Gang d Untersuchung sein hier fast eben so einseitig, als in d Sprache sein, d lang Zeit hindurch mehr nach d Frequenz gewiß Ton und Endung, nach d Gestalt d Wurzel, als nach d organisch Bau ihr Grammatik vergleichen werden sein.
+ich sein seit mehrere Jahr anhaltend und mit besondere Vorliebe bemühen sein, die bei verschieden Volk alt und neu Zeit üblich System von Zahlzeichen unter eine allgemein Gesichtspunkt zu stellen.
+d Kenntnis gewiß Ziffer bei d Azteke (Mexikaner) und bei d Muyscas (d Bewohner d Hoch-Ebene von Cundinamarca), die ich von meine Reise zurückbringen haben; Thomas Young's Entdeckung d ägyptisch Zahlzeichen, die (wie wir jetzt wissen) nicht alle durch Nebeneinanderstellung (Juxtaposition) d Vielfach d Gruppe ausdrücken; d so wenig beachten arabisch Geobar (Staub)-Schrift, welche Silvestre De Sacy in eine Pariser Manuskript auffinden; d Vergleichung, welche ich zwischen diese Bezeichnungsart und d mexikanisch und chinesisch Zahlzeichen anstellen; die durch viel in Indien erscheinen Sprachelehre erlangt Gewißheit, daß diesseits und jenseits d Gang nicht bloß ganz verschieden gestaltet Ziffer und Buchstaben-Zahl, sondern auch ganz verschieden Zahlen-System, mit und ohne Stellenwert, herrschen; endlich eine ganz unbekannt indisch Methode, die eine Scholion d griechisch Mönch Neophytos darbieten, liefern ich eine Reihe von Material, welche einiges Licht auf unsere sogenannt arabisch Zahlen-System werfen können.
+ich haben zuerst im Jahr 1819 in eine Abhandlung, welche ich zu Paris in d Sitzung d Akademie d Inskription Et Belles-Lettres lesen, zu zeigen suchen, wie bei Volk, welche d roh Methode d Juxtaposition dadurch abkürzen, daß sie (nach Art d Mexikaner, in d Ligatur von 4 Mal 13 oder 52 Jahr, d Chinese, Japanese und Tamulen) Exponent oder Indikator über d Zahlenzeichen schreiben, aus diese Indikator, durch Suppression d senkrecht oder horizontal gereiht Gruppenzeichen, d herrlich indisch System d Stellenwert entstehen können.
+d Verbreitung diese System müssen durch d uralt Gebrauch d erinnerungs- und Zahlschnur, welche teils lose, als Quippos d Tatar, Chinese, Ägypter, Peruaner und Mexikaner, zu christlich Paternoster oder Ritual-Rechenmaschine umformen werden, teils in fest Rahmen gespannt, d Suanpan von ganz Inner-Asien, d Abacus d Römer und Tusker und d Werkzeug d palpabel Arithmetik slawisch Stamm bilden, ansehnlich begünstigen werden.
+diese schnur- und Drahtreihe d einfach asiatisch Suanpan repräsentieren hoch und nieder Gruppe eine Zahlen-System, gleichviel ob Zehner, Hundert und Tausend, oder in 60theiliger Abteilung: Grad, Minute, Sekunde.
+d Geist d Methode sein dieselbe.
+d Perle auf jede Schnurreihe sein wieder d Indikator d Gruppe, und eine leer Schnur deuten auf null, also auf d leer Sunya (Sanscr.) Sifr oder eigentlich Sifron Sihron (arabisch, nach Meninski: prorsus vacuum).
+ich können nicht historisch entwickeln, daß d Ursprung d indisch Stellenwert von 9 Ziffer wirklich d sein, welchen ich angeben; aber ich glauben eine Weg finden zu haben, auf welche allmählich d Entdeckung machen werden können.
+auf d Einsicht solch Möglichkeit führen ja überhaupt nur d dunkel und eben darum so anziehend Geschichte d altertümlich Entwicklung geistig Kraft und Bildung d Menschen-Geschlecht.
+über d Meinung, daß d Zahlzeichen d Muyscas (zugleich Hieroglyphe d Mondtag d zunehmend Alter d Mond) mit die sich nach d verschieden Phase allmählich entwickelnd Mondgesicht zusammenhängen, sehen Humboldt, Vue d Cord.
+et monumens des peuples indigenes de l'amerique T. Ii. Pag. 237--243.
+Pl. Xliv.
+über d Quippos zur Abzählung d Sünde im Beichtstuhl s. Acosta hissen. natural de las indias, Lib. 6. Cap. 8. El Inca Garcilaso, Lib. 6. Cap. 9. Freret Mem. De L'acad.
+T. 6. P. 609.
+Klaproth asiat. mag. th. ii. S. 78.
+Otfried Müller, Etrusker, T. Ii. P. 318.
+im russisch heißen d Rosenkranz Tschotki; d Rechenbrett mit Schnur (d Suanpan d Tatar) Tschotü.
+von jen in d Akademie d Inskription gelesen Abhandlung sein nur eine kurz Auszug drucken werden, und an eine Ort, wo man er schwerlich suchen.
+d Manuskript selbst sein in Herr Champollion's Hand, die es mit weit wichtig, von er in Turin entdeckt Tatsache über d verschieden Methode d ägyptisch Zahlzeichen, bekannt machen wollen.
+ich haben seitdem von Zeit zu Zeit fortfahren, meine erst Arbeit zu vervollständigen; aber da ich nicht hoffen dürfen, Muße genug zu finden, sie in ihr ganz Ausdehnung herausgeben, so werden ich in diese Abhandlung mehrere d Haupt-Resultat zusammendrängen.
+bei d neu und glücklich Richtung, welche d Studium d Sprache und Monument nehmen, bei d wachsend Verkehr mit d süd- und ost-asiatisch Volk, sein es wohl nicht ohne einige Nutzen, Problem zur Sprache zu bringen, welche mit d Gang d menschlich Geist, und (durch d letzte Verzweigung d Zahlen-Hieroglyphik und einfach graphisch Methode) mit d glänzend Fortschritt d Mathematik in so eng Verbindung stehen.
+"d Gedanke, alle Quantität durch neun Zeichen ausdrücken, indem man sie zugleich eine absolut und eine Stellungswert geben, sagen eine d groß Geometer unsere Zeit und alle Zeit, d Verfasser d Mecanique Celeste, sein so einfach, daß man eben deshalb nicht genügsam erkennen, welche Bewunderung er verdienen.
+aber eben diese Einfachheit und d Leichtigkeit, welche d Methode d Kalkül zusichern, erheben d arithmetisch System d Inder zu d Rang d nützlich Entdeckung.
+wie schwer es sein, eine solch Methode auffinden, können man daraus abnehmen, daß sie d Genie d Archimedes und Apollonius Von Perga, zweier d groß Geist d Altertum, entgehen sein."
+d nachfolgend Bemerkung werden zeigen, wie ich hoffen, daß d indisch Methode allmählich aus früh, noch jetzt im östlich Asien üblich, entstehen können.
+Gay Lussac Et Arago, annales de Chemie et de physique T. Xii. P. 93. in d monatlich Anzeige d Verhandlung d Institut.
+Humboldt Essai Pol. sur la Nouv. Espagne (2. Edit.) T. Iii. P. 122--124.
+Laplace Expo. du System Du Monde (5. Edit.) p. 325.
+mit diese Urteil kontrastieren sonderbar d Behauptung von Delambre in seine Streit über d Verdienst d altindisch Arithmetik, wie sie in Bhascara Acharva's Lilawati enthalten sein (Hist. De L'Astronomie Ancienne T. I. P. 543.).
+Sprache allein führen wohl nicht auf Suppression d Gruppenzeichen
+so wie Sprache im allgemein auf Schrift, und Schrift, unter gewiß, von Silvestre De Sacy und Meinem Bruder untersuchen Bedingung, auf d Sprache zurückwirken, so stehen auch d, bei verschieden Volk so verschieden Art zu zählen mit d Zahlen-Hieroglyphik in genau Wechselwirkung.
+doch sein von diese Wechselwirkung nicht immer streng Konsequenz zu erwarten.
+d Zahlzeichen folgen nicht immer denselben Gruppierung von Einheit, als d Sprache; in d Sprache finden wir nicht immer dieselbe Ruhepunkt (dieselbe Quinar Zwischenstufe) als in d Zahlzeichen.
+Fasset man aber, was Sprache (Zahlwort) und numerisch Graphik in d entfernt Erdestrich darbieten, unter eine Blick zusammen, gleichsam als gemeinsam Produkt d menschlich Intelligenz, auf quantitativ Verhältnis anwenden, so entdecken man in d Zahlenschrift d eine Volkerstamm d isoliert scheinend Sprachesonderbarkeit eine ander Stamm; ja, man müssen hinzusetzen, daß eine gewiß Unbehilflichkeit im numerisch Gebiet d Sprache und Schrift eine sehr trüglich Maßstab für d sogenannt Kultur-Zustand d Menschheit geben.
+hier finden dieselbe verwickelt, unter einander kontrastierend Verhältnis Stadt, als bei Volk, d Buchstabenschrift oder bloß ideographisch Zeichen, die d üppig Reichtum grammatisch Form, aus d Innere d Wurzellaut sich organisch-entwickelnd Flexion, oder fast ganz flexions- und Formenlos, wie im erst Ausbruch erstarrt Sprache (und alle diese in d verschieden Gradation intellektuell Bildung und politisch Einrichtung) besitzen.
+so fühlen sich d einige Menschengeschlecht durch Wechselwirkung d inner und äußer Welt (eine Wechselwirkung, die erst bestimmend Grund in d mythisch Dunkel d Vorwelt verhüllt bleiben) in d verschieden Richtung stoßen; meist unaufhaltsam, d alt Natur bewahren, auch wenn groß Welt-Erschütterung d heterogen Sprachestamm einander geographisch nah bringen; aber Ähnlichkeit d durch d fern Erdestrich widerhallend Anklang, in grammatisch Spracheform und graphisch Versuch groß Zahl ausdrücken, bezeugen d Einheit d alt Geschlecht, d Übergewicht die, was aus d inner Intelligenz, aus d gemeinsam Organisation d Menschheit entspringen.
+Reisende, welche beim Zählen Steinchen und Samenkorn in Haufen von 5 oder 20 zusammenlegen sehen, behaupten, daß viel Nation nicht über 5 oder 20 zählen.
+eben so können man behaupten, daß d Europäer nicht über 10 zählen, da Siebenzehn aus 10 und 7 Einheit zusammensetzen sein.
+bei d kultiviert Volk d Abendland, z. B. bei Grieche und Römer, deuten bekanntlich d Sprache noch auf jen haufen- und Gruppen-Bildung hin; daher d Ausdruck Psephizein, ponere calculum, calculum detrahere.
+Gruppe von Einheit gewähren Ruhepunkt beim Zählen, und d verschieden Volk, in Folge d gleich körperlich Gliederung (4 fünffach geteilt Extremität) stehen still, entweder bei eine Hand, oder bei beide, oder bei Hand und Fuß.
+nach diese Verschiedenheit d Ruhepunkt bilden sich Gruppe von 5, 10 und 20. merkwürdig sein es immer, daß im neu Kontinent, wie bei d afrikanisch Mandingas, d Baske und d kymrisch (gallisch) Stamm d alt Kontinent, meist Gruppe von 20 herrschen.
+in d Chibcha-Sprache d Muyscas (eine Volk, die, wie d Japanese und Tibetaner, eine geistlich und eine weltlich Oberhaupt haben und die Nordindische intercalations- Methode eine 37sten Monat ich bekannt machen haben) heißen 11, 12, 13: Fuß eins (Quihieha Ata); Fuß zwei (Quihieha Bosa); Fuß drei (quihieha mica) von Quihieha oder Qhieha (Fuß) und d 3 erst Einheit Ata, Bozha oder Bosa und Mica.
+d Zahlwort Fuß bedeuten zehn, weil man d Fuß nennen, wenn schon beide Hand durchzählen sein.
+zwanzig heißen demnach in d Sprachesystem d Muyscas: Fuß-Zehn oder eine Hauschen (Güte), vielleicht weil man mit Maiskorn statt d Steinchen zählen, und eine Haufenchen Mais an d Vorrats-Haus, d Mais-Scheuer, erinnern.
+aus d Wort Haus, Güte, oder zwanzig (beide Fuß und Hand) entstehen nun 30, 40, 80 mit d Benennung: zwanzig plus 10; zweimal zwanzig; viermal zwanzig; ganz wie d keltisch, in d romanisch Sprache übergegehen Ausdruck Quatre-Vingt, und Quinze Vingt, ja d selten six vingt, sept vingt, huit vingt.
+deux- und Trois Vingt sein im französisch nicht üblich, da doch im gallisch oder keltisch Dialecte d westlich Bretagne, die ich vor wenige Jahr durchstrichen sein, von Ugent zwanzig, daou-ugent Zwei-Zwanzig oder 40; tri-ugent Drei-Zwanzig oder 60; ja Deh Ha Nao Ugent 190 oder zehn über neun Zwanziger heißen.
+Pauw, recherches philos. sur les americains.
+t. ii. p. 162. (Humboldt monumens americains.
+t. ii. p. 232--237.)
+Beispiel solch Zahlgruppe von 20 Einheit liefern in Amerika: d Muyscas, die Otomiten, d Azteke, d Kore-Indianer u. s. F.
+Monum. Amer. T. Ii. P. 250--253.
+d Muyscas haben Stein mit Zahlzeichen bedecken, die in ihr Folge d Priester (Xeques) d Intercalation d rituell Jahr erleichtern.
+sehen d Abbildung eine solch Intercalations-Steines a. a. Ort, Tab. Xliv.
+Davies Celtic Research 1804. P. 321. Legodinec gram Celto-Bretonne 1807. P. 55.
+im keltisch oder kymrisch Dialecte von Wales heißen 5 Pump; 10 deg; 20 ugain; 30 deg ar ugein (10 und 20); 40 deugain; 60 trigain.
+(William Owen dict.
+of the welsh language.
+vol. i. p. 134.)
+nach demselben System d Zwanziger finden wir im baskisch: bi 2; lau 4; amar 10; oguai 20; birroguai 40; lauroguai 80; berroguetamar 50, d. I. 40 und (Ata) zehn.
+Larramendi, Association_Relative_À_La_Télévision_Européenne de la lengua bascongada 1729. P. 38.
+(d baskisch und kymrisch Zahlwort sein in meine Monum. Ii. P. 237. nicht vermengen, aber um d Vergleichung zu erleichtern, zusammenstellen:
+nur stehen durch eine Druckfehler les premiers statt les deux oder les wir et les autres.)
+von d Analogie d Sprache und d Zahlen-Hieroglyphik können ich noch ander merkwürdig Beispiel anführen, in d Juxtaposition, im Abziehen von Einheit, indem man sie graphisch d Gruppe vorsetzen; in Mittelstufe von 5 zu 15, bei Volk, die nach Gruppe von 10 oder 20 zählen.
+bei sehr roh amerikanisch Stamm, z. B. bei d Guaranis und Lulos, heißen 6, 7 und 8 vier mit zwei, vier mit drei, fünf mit drei.
+bei d gebildet Muyscas finden wir zwanzig (oder Haus) mit zehn für 30, wie d Kymre in Wales Deg (zehn) or ugain (mit zwanzig), d Franzose für 70 soixante et dix sagen.
+Summierung durch Juxtaposition finden wir überall bei Etrusker, Römer, Mexikaner und Ägypter; subtraktiv oder mindernd Spracheform im Sanskrit bei d Inder: in 19 oder Unavinsati; 99 unusata; bei d Römer in Undeviginti für 19 (unus de viginti). Undeoctoginta für 79; duo de quadraginta für 38; bei d Grieche Eikosi Deonta Henos 19 und Pentekonta Düoin Deontoin 48, d. I. fehlen 2 an 50.
+dieselbe minorative Spracheform sein in d numerisch Graphik übergehen, wenn d Gruppenzeichen 5, 10, ja selbst ihr Vielfache, z. B. 50 oder 100, Charakter zur Linken setzen werden. (iv und il, XL und XT für 4 und 40 bei Römer und Tuskern, obgleich bei d letztere, nach Otfried Müller's neu Untersuchung, d Ziffer wahrscheinlich ganz von d Alphabet herstammen.)
+in selten römisch Inschrift, die Marini sammeln, finden sich sogar 4 Einheit vor 10, z. B. Iiiix für 6. wir werden bald sehen, daß es graphisch Methode bei indisch Volkerstamm geben, in welchen d Stellenwert, welche bei Tuskern und Römer nur additiv oder subtraktiv sein, nach Maßgabe d Stellung oder Richtung d Zeichen, auf Addition und Multiplikation hindeuten.
+in diese indisch System sein (um ich römisch Ziffer zu bedienen) Iix zwanzig, und Xii zwölf.
+Herr Bopp führen selbst 95 oder eine um 5 vermindert hundert an, pantschonam satam (aus pantschen 5 und una wenige zusammenziehen.)
+Otfried Müller, Etrusker, Ii. P. 317--320.
+Iscrizioni Della Villa Di Albano, P. 193. Hervas Aritmetica dellen Nazioni 1786. P. 11. 16.
+in eine groß Zahl von Sprache werden d Normal-Gruppe 5, 10, 20 eine Hand, zwei Hand, und Hand und Fuß (bei d Guaranis Mbombiabe) nennen.
+haben man an beide Extremität d Finger abzählen, so erscheinen d ganz Mensch als eine Symbol von 20; daher heißen in d Sprache d Yaruros (von die ich volkreich missions- Dorf am Apure-Flusse, die sich in d Orinoco einmünden, finden) 40 zwei Mensch, noeni Pumpe von Noeni zwei und Pumpe Mensch.
+im Persische drücken bekanntlich pantschen d Faust, Pendj fünf aus, herstammen von d Sanskrit-Wort pantschen.
+"letztere haben (nach Hrn. Bopp's scharfsinnig Bemerkung) auf d römisch Quinque führen, wie d indisch Tschatur auf Quatuor.
+d Plural von Tschatur (4.) sein Tschatvaras, und stehen d dorisch-äolisch Tettares sehr nahe.
+d indisch Ch, wie im Englische aussprechen, also tsch, werden nämlich im Griechische eine T; daher sich Tschatvaras in Tatvaras, wie pantschen (5) in Panta (d griechisch Pente, äolisch Pempe, davon Pempazein an d Finger oder fünf zählen) umwandeln.
+im Lateinische entsprechen dagegen Qu d indisch Ch oder vielmehr tsch; daher Tschatur und
+pantschen in Quatuor und Quinque übergehen.
+pantschen selbst heißen im Sancrit nie Hand, sondern bedeuten einzig d Zahl 5.
+doch sein Pantschasakha eine beschreibend Ausdruck für Hand, als eine Fünfästige Organ."
+über d Sanskrit-Zahlwort in Vergleichung mit griechisch, lateinisch und gotisch Zahlwort haben ich Herr Prof. Bopp, in Paris, im Jahr 1820, eine interessant handschriftlich Aufsatz mitteilen, die ursprünglich bestimmen sein, in meine Werk:
+über d Zahlzeichen d Volk" zu erscheinen.
+wie nun in d Sprache und, mit besondere Naivität, in d südamerikanisch Sprache, d Gruppe von 5, 10, 20, gleichsam als Ruhepunkt bezeichnen sein, so erkennen wir dieselbe Gruppe in d Zahlen-Hieroglyphik.
+d Römer und Tusker haben einfach Ziffer für 5, 50, 500.
+d Quinar System haben sich neben d Denar erhalten.
+im aztekisch (Mexikanische) finden wir nicht bloß Gruppenzeichen für 20 eine Fahne; für d Quadrat von 20 oder 400 eine Feder mit Goldkorn füllen, die in einige mexikanisch Provinz als Münze dienen; für d Kubus von 20 oder 8000 eine Sackchen, Xiquipilli, mit 8000 Cacao-Bohnen, ebenfalls zum Tauschhandel bestimmen; sondern auch (da d Fahne in 4 Fächer teilen und halb oder zu ¾ colorieren sein) Zahlzeichen für Halb-Zwanzig oder 10, und für ¾ zwanzig oder 15, gleichsam 2 Hand und 1 Fuß.
+d denkwürdig von alle Beweis d Wechselwirkung zwischen Graphik und Sprache bieten aber Indien dar.
+d Stellenwert d Einheit sein im Sanskrit selbst in d Rede eindringen.
+d Indiener haben nämlich eine gewiß bildlich Methode, Zahl durch d Name von Gegenstand ausdrücken, die eine bestimmt Zahl bekannt Ist. Surya (Sonne), zum Beispiel, bedeuten 12; denn in indisch Mythe werden 12 Sonne nach d Reihe d Monat annehmen.
+d auch in d Mondhaus oder Naktschatras vorkommend beide Aschwina (Castor und Pollux) drücken d Zahl 2 aus; Manu bedeuten 14, nach d Menu d Mythologie.
+aus diese vorläufig Andeutung erhellen nun, wie Surymanu, d Zusammenstellung d Symbol von 12 und 14, d Jahrszahl 1214 bezeichnen.
+diese Tatsache verdanken ich d gütig Mitteilung d gelehrt Colebrooke.
+wahrscheinlich heißen, nach demselben Prinzip, 1412 Manusurya und 214 Aswinimanu.
+im Sanskrit sein übrigens d Enumeration so vollkommen, daß man sogar eine einfach Wort, koten, für 10 Million finden, wie d peruanisch Qquichua-Sprache, die nicht nach Gruppe von 20 zählen, eine einfach Wort für eine Million (Hunu) kennen.
+für d tuskische Zeichen von 500 s. Otfried Müller, Abth. Iv. Fig. 2.
+Humboldt, Monum. Amer. I. P. 309.
+rechnen wir nach Zehner nur deshalb, wie Ovid sagen, Quia tot digiti, per quos numerare solemus, so werden d Mensch bei 6fach geteilt Extremität zu eine Duodenar Scale, zu Gruppe von 12, gelangen sein, die d groß Vorzug von bruchlos Teilung durch 2, 3, 4 und 6 gewähren, und die sich d Chinese seit d früh Zeit bei ihr Maß und Gewicht bedienen.
+Debrosse Ii. 158.
+von diese Betrachtung über d Verkehr zwischen Sprache und Schrift, zwischen Zahlwort und Zahlzeichen, gehen wir nun zu d letztere selbst über.
+ich wiederholen es, daß in diese Auszug aus meine groß, unvollendet Werk nicht sowohl von d heterogen Gestaltung einzeln Element (Ziffer), als von d Geist d Methode d Rede sein werden, welche d verschieden Nation im Ausdruck numerisch Größe anwenden haben.
+d Gestalt und Form d Ziffer erwähnen ich hier nur, wenn sie auf d Schluß über Identität und Heterogenität d Methode einwirken.
+d Art zu prozedieren, um d rein und gemischt multipel d Denar Fundamental-Gruppe n (z. B. 4n, 4n2, oder 4n+7, 4n2+6n, 4n2+6n+5) ausdrücken, sein nämlich sehr vielfältig, und geschehen bald durch Reihung (Stellenwert, Position), wie bei verschieden indisch Volk; bald durch roh Juxtaposition, wie bei d Tuskern, Römer, Mexikaner und Ägypter; bald durch nebenstehend Koeffizient, wie bei d Tamulsprechende Bewohner d südlich, indisch Halbinsel; bald durch gewiß, über d Gruppenzeichen stehend Exponent oder Indikator, wie bei d Chinese, Japanese und d Myriaden d Grieche; bald in d invers Methode, durch eine Zahl von Null oder Punkt, welche neun Ziffer oben anhängen werden, um d relativ oder Stellenwert jede Ziffer zu bezeichnen, gleichsam Gruppenzeichen, welche über d Einheit setzen werden, wie in d arabisch Geobarschrift und in eine, vom Mönch Neophytos erläutert indisch Zahlen-System.
+d eben genennt 5 Methode sein von d Gestaltung d Ziffer ganz unabhängig, und um diese Unabhängigkeit noch gut zu bewähren, haben ich es mich in diese Abhandlung zum Gesetz machen, keine ander Zeichen, als d gewöhnlich arithmetisch und algebraisch zu gebrauchen.
+d Aufmerksamkeit werden auf diese Weise mehr auf d Wesentliche, auf d Geist d Methode, richten.
+ich haben schon bei eine ander, sehr heterogen Gegenstand, in Beziehung d regelmäßig aufeinander- Lagerung, oft periodisch Reihung d Gebirgesart (in d anhängen zu d Essai geognostique sur le gisement d Roches zu zeigen suchen, wie durch Pasigraphische Notation d Verallgemeinerung d Begriff gewinnen können.
+man unterdrücken d, ihr Natur nach allerdings sehr richtig Nebenbetrachtung individuell Form und Mischung, um eine Erscheinung, die man vorzugsweise verfolgen wollen, in eine desto rein Licht zu setzen; eine Vorteil, die d frostig Nüchternheit solch Abstraktion einigermaßen rechtfertigen können.
+ed. de 1823, p. 364--375.
+man sein gewohnen, in d graphisch Methode d Volk zu unterscheiden: Zeichen, welche von d Buchstabenschrift unabhängig sein, und Buchstabe, welche durch eine bestimmt Reihung, durch gewiß beigefügt Strich und Punkt oder (in Beziehung auf d Sprache) durch Initiale d Zahlwort d numerisch Wert angeben.
+es sein bekanntlich keine Zweifel unterwerfen, daß d hellenisch, d semitisch oder aramäisch Stamm (unter letztere d Araber selbst, bis in d 5te Jahrhundert nach d Hegira, ehe sie durch d Perser d Ziffer erhalten) in d Epoche ihr gereift Kultur, dieselbe Zeichen als Buchstabe und Ziffer benutzt.
+auf d ander Seite sehen wir im neu Kontinent wenigstens zwei Volk, d Azteke und Muyscas, welche Zahlzeichen und keine Buchstabenschrift haben.
+bei d Ägypter scheinen d am meiste gebraucht numerisch Hieroglyphe für Einheit, Zehner, Hundert und Tausend auch nicht mit d phonetisch Hieroglyphe zusammenhängen.
+Ganz unabhängig vom Alphabet sein auch d altpersisch Pehlwi-Zahlenschrift in d erst 9 Einheit, wie bei d Tuskern und d alt Grieche und d Römer.
+Anquetil bemerken schon, daß d Zent-Alphabet, welche mit seine 48 Element d Zahlbezeichnung haben erleichtern können, nicht als Ziffer gebrauchen werden, und daß in d Zentbuch d Zahl immer zugleich in Pehlwi-Ziffern und in Zentwort ausdrücken sein.
+sollen sich eine solch Mangel von Zend-Zahl durch künftig Untersuchung bestätigen, so werden dieselbe, bei d innig Verwandtschaft d Zentsprache mit d Sanskrit, zu d Meinung führen, d Zend-Volk haben sich von d Inder trennen, als diese noch nicht d Stellenwert d Ziffer kennen.
+über 9 hinaus sein im Pehlwi d gruppen- Zeichen 10, 100 und 1000 aus Buchstabe zusammensetzen.
+Dal sein 10; Re mit Za verschlingen 100; Re mit Ghain verschlingen 1000.
+wenn man von d ganz Maß d Zahlzeichen d Menschengeschlecht d wenige betrachten, was wir bisher kennen lernen, so finden man, daß d Einteilung in Buchstabenzahl und eigentlich sogenannt Ziffer eben so unsicher und unfruchtbar sein, als d von echt Sprachekenner längst aufgegeben Einteilung in ein- und mehrsilbig Sprache.
+wer können mit Sicherheit entscheiden, ob d Tamul-Ziffer in Süd-Indien, die keine Stellenwert kennen, und, bis auf d Ziffer 2, ganz von d in d Sanskrit-Handschrift gebräuchlich abweichen, nicht von d alphabetisch Tamulschrift selbst ableiten sein, da man in dieselbe zwar nicht d Gruppenzeichen für 100, aber wohl d Gruppenzeichen 10 (im Buchstabe Γα), und d 2 (im Buchstabe U) zu erkennen glauben?
+d Telugu-Ziffern mit Stellenwert, ebenfalls im südlich Teil d indisch Halbinsel gebräuchlich, weichen in 1, 8 und 9 sonderbar von alle uns bekannt indisch Ziffer ab, da sie hingegen in 2, 3, 4 und 6 mit dieselbe übereinstimmen.
+d Bedürfnis, Zahl graphisch zu bezeichnen, sein wohl am früh fühlen werden, und numerisch Zeichen gehören zu d alt alle Schriftzeichen.
+d Werkzeug d palpabel Arithmetik, wie sie Herr Leslie in seine geistreich Werk: the Philosophie of arithmetic (1817) d figurativ oder graphisch entgegensetzen, sein beide menschlich Hand, Haufenchen von Stein (calculi, psephoi), Samenkorn, lose Schnur mit Knoten (Rechenschnur, tatarisch und peruanisch Quippos), eingerahmt Suanpan und Abakus-Tafel, d slawisch Rechenmaschine mit aufgeziehen Kugel oder Samenkorn.
+alle diese Werkzeug liefern d Auge d erst graphisch Bezeichnung von Gruppe verschieden Abstufung.
+eine Hand oder eine Schnur mit Knoten oder verschiebbar Kugel bezeichnen d Einheit bis 5 oder 10 oder 20.
+wie oft durch Schließung d einzeln Finger eine Hand durchzählen sein, (Pempazesthai) geben d ander Hand an, auf die dann jede Finger, d. I. jede Einheit, eine Gruppe von fünf ausdrücken.
+eben so verhalten sich zwei lose Knotenschnur gegen einander, und zu Gruppe 2ter, 3ter und 4ter Ordnung übergehen, stehen in demselben auf- und absteigend Gruppen-Verhältnis d aufgespannt, mit Kugel beziehen Rechenschnur, d alt-asiatisch Suanpan, die zu d abendländisch Volk als Abax oder Tabula Logistica früh (vielleicht durch Ägypter zur Zeit d pythagoreisch Bund) übergehen sein.
+d Kauas, welche alt als d jetzig chinesisch Schrift sein, ja d notenartig, knotig, oft gebrechen Parallellinie d Zauberbuch (Raml) von Inner-Asien und Mexiko scheinen nur graphisch Projektion von diese rechen- und Denkschnur.
+im asiatisch Suanpan oder im Abacus, die d Römer sich bei ihr unbehilflich Zahlzeichen weit mehr bedienen, als d in d Zahlen-Graphik glücklich fortgeschreiten Grieche, erhalten sich, neben d Denar Reihe, die in geometrisch Progression auf- und absteigen, auch Quinar Reihe.
+zur Seite jede Zahlenschnur d Gruppe oder Ordnung n, n2, N3 stehen eine klein Schnur, welche je fünf Kugel d groß durch eine einzig bezeichnen.
+Mittel diese Einrichtung werden d Zahl d Einheit so vermindern, daß d Hauptschnur nur 4, d Nebenschnur nur 1 Kugel bedürfen.
+d Chinese scheinen, von d früh Zeit an, willkürlich irgend eine d aufeinander folgend parallel Schnur, als d Schnur d Einheit betrachten zu haben, so daß sie, auf- und abwärts, Dezimalbruch und ganz Zahl und Potenz von 10 erhalten.
+wie spät (im Anfang d 16ten Jahrhundert?) sein in d Abendländer d Kenntnis d Dezimal-Bruch kommen, zu welche d palpabel Arithmetik im Orient längst führen haben!
+bei d Grieche sein, jenseits d Einheit, d aufsteigend Scale nur im Sexagesimal-System, bei Gerade, Minute und Sekunde bekannt; aber da man nicht N--1, die heißen, 59 Zeichen haben, werden d Stellenwert nur in zweigliedig Schichte beobachten.
+d arabisch Diwani-Ziffer, aus bloß Monogramm oder Abbreviation von Zahlwort zusammensetzen, geben d verwickelt Beispiel solch Initial-Schrift.
+ob d oskisch und römisch C und M d Tuskischen und römisch Sprache entlehnt Initiale sein, sein zweifelhaft, als man gewöhnlich glauben.
+(Leslie philos. of arith. p. 7--9. 211. Debrosse t. i. p. 436. Hervas p. 32. 35. Otfr.
+Müller, Etrusker, P. 304. 318.)
+d griechisch rechtwinklig Kreuz, ganz d chinesisch Zeichen von 10 ähnlich, bedeuten auf d alt Inschrift tausend (Boeckh, Korb. Inscript. Graec. Vol. I. P. 23.) und sein nichts andere, als d uralt Form d Chi (nouveau traite de Diplom. par deux religieux de St. Maur. Vol. I. P. 678.)
+Silvestre De Sacy, gramm. arabe, 1810.
+t. i. p. 74. note 6.
+mem. de l'acad. des belles lettres t. 31. p. 357.
+Campbell, grammar of the teloogoo-language (Madras) 1816. P. 4. 208. Teloogoo sein d fälschlich genennt Gentoo-Sprache, von d Eingeborene Trilinga oder Telenga nennen.
+man vergleichen d Ziffertafel von Campbell mit ander Varietät indisch Ziffer in Wahl's Allgem.
+Geschichte d Morgenland.
+Sprache 1784.
+tab. i.
+im Orient werden Raml d negromantische Kunst d Sand nennen.
+Ganze oder gebrechen Linie und Punkt, welche d Element vorstellen, leiten d Weissager.
+(Richardson And Wilkins Diktion.
+persian and arabic.
+1806.
+t. i. p. 482.)
+als eine solch orientalisch Raml sein d merkwürdig, echt mexikanisch, wie mit Musik-Note bedeckt Manuskript, die zu Dresden aufbewahren werden, und welches ich in meine Monum. Americ. Pl. 44. abbilden, von eine gelehrt Perser, die mich in Paris besuchen, auf d erst Blick erkennen werden.
+Ganz ähnlich, echt amerikanisch Kaue und notenförmig Linear-Zeichnung haben ich seitdem in mehrere aztekisch hieroglyphisch Handschrift und in d Skulptur d Palenque, im Staat von Guatimala entdecken.
+im alt Stil d chinesisch Zahlenschrift sein d Gruppenzeichen für 10, eine Perle auf eine Schnur, offenbar (projektionsartig) vom Quippu hernehmen.
+Nicomachus in Ast, Theologumena Arithm. 1817. P. 96.
+in d Finanz-Wesen d Mittelalter werden d Rechentisch (Abax) zum Exchequer.
+so im römisch Abacus; im chinesisch gebrauchen man 5 und 2 Kugel.
+d nicht zählend Kugel werden dann zur Seite schieben.
+über d erst Versuch d Dezimal-Bezeichnung von Michael Stifelius aus Schlingen, Stevinus aus Brügge und Bombelli aus Bologna s. Leslie Phil.
+of arithm. p. 134.
+Wende wir unsere Blick auf d Ursprung d Zahl, so finden wir, daß in aufgehäuft Steinchen, oder auf d mit Kugel bedeckt Schnur d Rechenbrett, Zahl mit groß Regelmäßigkeit transitorisch schreiben und lesen werden.
+d Eindruck, welche diese Operation hinterlassen, haben überall auf d früh Zahlen-Graphik einwirken.
+in d historisch, rituell und nachromantisch Hieroglyphe d Mexikaner, die ich bekannt machen, werden d Einheit bis 19 (d erst einfach Gruppenzeichen sein 20) als groß rund farbig Korn nebeneinander stellen, und, was sehr merkwürdig sein, d Rechnung gehen von d Rechte zur Linken, wie d semitisch Schrift.
+man bemerken diese Folge deutlich bei 12, 15, 17, wo d erst Reihe 10 enthalten, und d zweit nicht ganz ausfüllen sein.
+in d alt hellenisch Monument, in d Tuskischen Sepulkral-Inschrift, bei d Römer und Ägypter (wie Thomas Young, Jomard und Champollion zeigen haben) sein d Einheit durch senkrecht Linie bezeichnen.
+bei d Chinese und in einige von Eckhel (T. Iii. 410.) beschreiben echt phönizisch Münze sein diese Strich bis 4 horizontal.
+d Römer reihen zuweilen (d Quinar Gruppenzeichen überspringen,) in Inschrift, bis 8 Strich als Einheit aneinander.
+viel solch Beispiel geben Marini in d merkwürdig Schrift:
+monumenti dei fratelli arvali.
+d Nagelkopf zur alt römisch Jahres-Rechnung (annales antea in clavis fuerunt, quos ex lege vetusta figebat praetor maximus, sagen Plin. Vii. 40.) haben auf d mexikanisch Einheitspunkt führen können, welche auch wirklich neben d (chinesisch und phönizisch) Horizontal-Linie, in Unter-Abteilung d Unze und Fuß, vorkommen.
+diese Punkt und Strich, 9 oder 19 an d Zahl, in d Denar oder Vicesimal-Scale (hand- oder hand- und Fuß-Scale) d alt und neu Kontinent sein d roh alle Bezeichnung im System d Juxtaposition.
+man zählen dann d Einheit mehr als man sie lesen.
+die für sich bestehen, gleichsam d Individuellalität einzeln Gruppe von Einheit, als Zeichen, fangen erst an, in d Buchstabenzahl d semitisch und hellenisch Stamm, oder bei d Tibetaner und indisch Stamm, die durch einzeln ideographisch Zeichen 1, 2, 3, 4 ausdrücken.
+im altpersisch Pehlwi zeigen sich eine merkwürdig Übergang von d roh Methode d Juxtaposition von Einheitszeichen, zur isoliert Existenz zusammengesetzt ideographisch Hieroglyphe.
+d Ursprung d erst 9 Ziffer durch Zahl d Einschnitt oder Zahn, liegen hier vor Auge; 5 bis 9 sein sogar bloß Verschlingung d Zeichen 2, 3 und 4, ohne Wiederkehren d Zeichen von 1.
+in d ächt-indisch System d Devanagari, persisch und arabisch-europäisch Ziffer, sein nur in 2 und 3, Kontraktion von 2 und 3 Einheit zu erkennen, gewiß nicht in d hoch Ziffer, welche in d indisch Halbinsel auf d sonderbar Weise von einander abweichen.
+T. I. P. 31. T. Ii. P. 675. z. B. in Octumvir.
+Marini T. I. P. 228.
+Abel Remusat, Langues Tatar P. Xxx.
+über d sonderbar indisch Ziffer in Java s. Crawfurd Ii. P. 263.
+indem ich hier und in d folgend Teil d Abhandlung d indisch Zahl erwähnen, müssen ich mich zuerst über diese Benennung und über d alt Vorurteil, als haben Indien einerlei gestaltet Ziffer und keine Buchstaben-Zahl, als sein in Indien überall Kenntnis d Stellenwert und Nicht-Gebrauch von eigen Gruppen-Zeichen für n, n2, n3 ... erklären.
+so wie, nach d oftmalig Äußerung meine Bruder, Wilh. Von Humboldt, d Sanskrit sehr unbestimmt durch d Benennung "indisch und alt-indisch Sprache" bezeichnen werden, da es in d indisch Halbinsel mehrere sehr alt, vom Sanskrit gar nicht abstammend Sprache geben: so sein auch d Ausdruck "indisch, alt-indisch Ziffer" im allgemein sehr unbestimmt, und diese Unbestimmtheit beziehen sich sowohl auf d Gestaltung d Zahlzeichen als auf d Geist d Methode, welche man durch Juxtaposition, oder durch Koeffizient, oder durch bloß Stellenwert d Haupt-Gruppe n, n2, N3 und d Vielfache dieselbe 2n, 3n ... bezeichnen.
+selbst d Existenz eine Null-Zeichen sein, wie d Scholion d Neophytos lehren, in indisch Ziffer noch keine notwendig Bedingung d Stellenwert.
+im südlich Teil d indisch Halbinsel sein d tamul- und Telugu-Sprachen d weitverbreitet.
+d Tamulsprechende Inder haben von ihr Alphabet abweichend Zahlzeichen, von die d 2 und d 8 eine schwach Ähnlichkeit mit d indisch (devanagari-) Ziffer von 2 und 5 haben.
+noch verschieden von d indisch Ziffer sein d Cingalesischen.
+in diese und d Tamulischen finden man keine Stellenwert, keine Nullzeichen, sondern Hieroglyphe für d Gruppe n, n2, n3 ...
+d Cingalesen operieren durch Juxtaposition, die Tamulen durch Koeffizient.
+jenseits d Gang, im Burman-Reiche, sehen wir Stellenwert und Nullzeichen; aber von d arabisch, persisch und devanagari-indischen Ziffer gänzlich abweichend Zeichen.
+d von d Araber gebraucht persisch Ziffer weichen alle 9 gänzlich von d Devanagari-Ziffer ab; 7 sein wie eine römisch, 8 wie eine Tuskische 5 gestalten.
+unter d, was wir heute arabisch Ziffer nennen, sein bloß 1, 2, 3 d Devanagari-Ziffer gleich Bedeutung ähnlich; d Devanagari 4 sein unsere 8; unsere 9 sein eine Devanagari 7; unsere 7 sein eine persisch 6.
+im Bengale sein 5 eine halb Mond und 3, 5, 6, 8 und 9 weichen ganz von d Devanagari-Ziffer ab.
+bloß verunstalten indisch Devanagari-Ziffer sein d von Geozerat.
+Robert Anderson, Rudiment Of Tamul Grammar.
+1821. P. 135.
+James Chater, grammar of the cingalese language, Colombo 1815. P. 135.
+Carey, grammar of the burman language.
+1814. P. 196. bloß d Burmanische Ziffer 3, 4 und 7 haben einige Ähnlichkeit mit 2, 5 und 7.
+Vergl. John Shakespear, grammar of the hindustani language.
+1813. P. 95. u. Pl. I. William Jones, grammar of the persian language.
+1809. p. 93. Silvestre De Sacy, grammaire arabe.
+pl. viii.
+Graves Chamney Haughton, Rud.
+Of Bengale Grammar.
+1821. P. 133.
+Robert Drummond, illustrations of the grammat.
+parts of the guzerath and mahratt-language.
+1808. P. 25.
+Betrachtung über d Einfluß d früh Zahlzeichen auf d Alphabet, über geflissentlich Verunstaltung d Buchstabe, um sie nicht mit Ziffer zu verwechseln, über d verschieden Reihung d Zahlbuchstabe, welche bei demselben Volk nicht immer mit d üblich Alphabet übereinstimmen (wie im Aboudjed semitisch Stamm in Asien und Afrika, gehören nicht in diese Abhandlung, und haben zu viel grundlos Hypothese im Feld d vergleichend Alphabettick und Hieroglyphik Anlaß geben.
+ich haben selbst ehemals d Vermutung äußern, daß d indisch Zahl, trotz d Form von 2 und 3, Buchstabe eine alt Alphabet sein, die Abglanz sich noch in d phönizisch, Samaritanischen, palmeirisch und ägyptisch (mumien-)schriftzügen, ja an d alt-persisch Monument von Nakschi-Rustan finden.
+wie viel Letter sehen nicht in diese Alphabet d ausschließlich sogenannt indisch Ziffer ähnlich.
+eine phönikisch Ursprung d sogenannt indisch Zahl sein schon von ander Gelehrte behaupten werden, und d scharfsinnig Eckhel machen schon darauf aufmerksam, daß d Zahlen-Ähnlichkeit phönikisch Buchstabe so auffallend sein, daß d Wort Abdera durch 19990 und 15550 bezeichnen werden.
+aber über diese Ursprung d Ziffer und Buchstabe herrschen eine Dunkel, welche bei d vorhanden Material eine gründlich philologisch Untersuchung unmöglich machen, wenn man sie nicht auf negativ Resultat beschränken wollen.
+Silvestre De Sacy t. i. p. 10.
+Silvestre De Sacy, antiquités de la Perse. Pl. I. n. 1. Vergl. d Zahlen-Inschrift am Sinai in Descr. De L'Egypte. Vol. 5. Pl. 57.
+Guyot De La Marne in mem. de trevoux 1736. p. 160. 1740.
+Mars P. 260. Jahn Bibl. Archäolog.
+B. I. P. 479. Büttner Vergl. Tafel 1779.
+St. 2. P. 13. Eichhorn Einleit. in d alt Testament.
+B. I. P. 197. Wahl, Gesch. d Morgenl.
+Litt. P. 601. 630. Fundgrube d Orient B. 3. P. 87.
+doctrina nummorum veterum.
+1794. T. Iii. P. 396--404, 421, 494.
+so wie oft dieselbe Volk zugleich mit Buchstaben-Zahl und ideographisch oder willkürlich gewählt Zahlzeichen rechnen, so finden sich auch in eine und demselben Zahlen-System, in Hinsicht auf d Ausdruck d multipel d Fundamental-Gruppe, d verschiedenartig Methode, ja was in eine System gleichsam nur andeuten sein, zeigen sich im ander vollständig entwickeln.
+eben so präludieren, in d Sprache, bei eine Nation grammatisch Form, welche eine ander mit besondere Vorliebe und alle Aufwand intellektuell Kraft ausbilden haben.
+beschreiben man d Zahlensystem einzeln, wie sie jede Volk anwenden, so verdunkeln sich d Ähnlichkeit d Methode; man verlieren d Spur, auf welche d menschlich Geist zu d Meisterwerk d indisch Arithmetik gelangen sein, in die jede Zeichen eine absolut und relativ Wert haben, in die sie in geometrisch Progression von d Rechte zur Linken wachsen.
+ich verlassen daher in d folgend Satz d ethnographisch Folge und betrachten bloß d verschieden Mittel, welche anwenden werden, um dieselbe Gruppe von Einheit (gemischt oder ungemischt Gruppe) graphisch ausdrücken.
+erst Methode. Juxtaposition; bloß additiv bei Buchstabenzahl und eigentlich Ziffer.
+so Tusker, Römer, Grieche, bis zu d Myriade, semitisch Stamm, Mexikaner und d groß Teil d Pehlwi-Ziffern.
+diese Methode machen besonders die rechnen beschwerlich, wenn d multipel d Gruppe (2n, 3n, 2n2 ...) nicht eigen Zeichen haben.
+bei d Tuskern und Römer sein Wiederholung von d Zeichen 10 bis 50, bei d Mexikaner, wo d erst Gruppenzeichen 20 (eine Fahne) sein, finden Wiederholung desselben Hieroglyphe bis 400 statt.
+dagegen haben d Grieche in d beide Reihe d Zehner und Hunderter, die mit Iota und Rho anfangen, Zeichen für 20, 30, 400 und 600. drei Episem (Buchstabe eine veraltet Alphabet) Bau, Koppa und Sampi drücken aus: 6, 90 und 900; d letztere beide schließen d Reihe d Zehner und Hunderter, wodurch d Zahlenwert d griechisch Buchstabe d d semitisch Aboudjed's etwas ähnlich werden.
+Herr Böckh haben in seine gelehrt Untersuchung über d Digamma zeigen, daß Bau d wau d Semit (d Lateiner) sein; Koppa sein d semitisch kopf (9) und Sampi d semitisch Schin.
+d Reihe d Einheit von Alpha bis Theta bilden bei d Grieche d Wurzelzahl (Püthmenes), mit welchen man durch Kunstgriff, die Apollonius erfinden, im rechnen so operieren, daß man sie, im letzte Resultat, auf d korrespondierend Glied d 2ten und 3ten Reihe (d Analoge) reduzieren.
+Hervas Arithm. dellen Nazioni. P. 78. über alt Reihenfolge d Letter in semitisch Alphabet: Descript. De L'Egypte Moderne. T. Ii. P. Ii. P. 208.
+Staatshaushaltung d athener B. Ii. P. 385.
+Delambre hist. de l'astron. ancienne t. ii. p. 10.
+zweit Methode.
+Vervielfachung oder Verminderung d Wert durch darüber oder darunter gesetzt Zeichen.
+in d viert Reihe d griechisch Notation kehren bekanntlich d Püthmenes aus Analogie wieder, tausendfach vermehrt, durch Hinzufügung eine Strich nach unten.
+so reichen man bis zur Myriade; man schreiben bis 9999.
+haben man d Strich-Notation für alle Gruppe anwenden, und alle Zeichen nach d Theta (9) unterdrücken, so haben man für Β, mit eine oder 2 oder 3 Strich, Ausdruck für 20, 200 und 2000 haben, und sich, wie wir bald sehen werden, d wenig bekannt arabisch Geobar-Zahl, und mit sie d Stellenwert nähern; aber mit eine unglücklich Überspringung d Gruppe von Zehner und Hundert, fangen d Strich-Notation erst mit d Tausend an, und werden selbst nicht in hoch Gruppe versuchen.
+wenn eine Strich, die unten zufügen werden, d Zahl tausendfach vermehrt, so bezeichnen dagegen bei d Grieche eine senkrecht Strich, oben hinzufügen, eine Bruch, die Zähler d Einheit und die Nenner d Zahl sein, welche unter d Strich notieren werden.
+so sein im Diophantus γ΄ = 1/3; d = ¼, aber d unter Zahl bezeichnen d Zähler, wenn diese groß als d Einheit sein, und d Nenner d Bruch werden alsdann wie eine Exponent schreiben, so daß z. B. Γδ = ¾.
+in römisch Inschrift vermehrt eine Horizontal-Strich, nach oben zufügen, d Zahl tausendfach, was als eine Mittel d Abkürzung und Ersparung d Raum betrachten werden können.
+Delambre T. Ii. P. 11.
+d Strich, die zu d Buchstabe oben hinzufügen werden, bloß um anzeigen, daß sie als Zahl gebrauchen werden, müssen nicht mit d Fraktionszeichen verwechseln werden.
+auch sein dieselbe in d alt mathematisch Handschrift eigentlich nie senkrecht, sondern horizontal, und daher mit d Fraktionszeichen nie zu verwechseln.
+(Bast: de usu litterarum ad numeros indicandos in Gregorii corinthii lieber de dialectis linguae graecae 1811 p. 850.)
+wichtig sein d Methode d Eutocius zum Ausdruck d Myriaden.
+hier treffen wir bei d Grieche d erst Spur d, für d Orient so wichtig exponential- oder vielmehr Indikations-System.
+mα, mβ, mγ bezeichnen 10000, 20000, 30000.
+was hier bei d Myriaden allein anwenden werden, gehen bei d Chinese und d Japanese, die ihr Kultur von d Chinese 200 Jahr vor unsere Zeitrechnung erhalten, durch alle multipel d Gruppe durch.
+drei Horizontalstrich unter d Zeichen von zehn bedeuten 13; aber drei Horizontalstrich darüber bedeuten 30.
+nach diese Methode werden 3456 also schreiben (ich bedienen mich d römisch Zahl als Gruppenzeichen, d indisch als Exponent): m3 c4 x5 i6.
+bei d Ägypter finden sich dieselbe Indikator.
+auf eine gekrümmt Strich, die 1000 andeuten, werden 2 oder 4 Einheit stellen für 2000 und 4000.
+bei d Azteke oder Mexikaner haben ich für 312 Jahr d Zeichen d Ligatur mit 6 Einheit als Exponent finden (6 x 52=312) und in meine Werk über amerikanisch Monument abbilden.
+bei Chinese, Azteke und Ägypter stehen überall d Gruppenzeichen unten, als schreiben man gleichsam X5 für 50; in d arabisch Geobar-Ziffer stehen d Gruppenzeichen über d Indicator.
+im Geobar sein nämlich d Gruppenzeichen Punkt, also Null, denn in Indien, Tibet und Persien sein Null und Punkt identisch.
+diese Geobar-Zeichen, welche seit d Jahr 1818 meine ganz Aufmerksamkeit auf sich ziehen haben, sein von meine Freund und Lehrer, Herr Silvestre De Sacy, in eine Manuskript aus d Bibliothek d alt Abtei St. Germain Du Près entdecken werden.
+diese groß Orientalist sagen:
+le gobar a un grand rapport avec le chiffre indien, mais il n'a pas de zero.
+ich glauben, daß allerdings d Nullzeichen vorhanden sein: es stehen aber, wie im Scholion d Neophytos, über d Einheit, nicht daneben; ja es sein gerade d Nullzeichen oder Punkt, welche diese Charakter d sonderbar Name Geobar oder Staubschrift geben.
+man sein auf d erst Blick ungewiß, ob man eine Übergang zwischen Ziffer und Buchstabe darin erkennen sollen.
+man unterscheiden mit Mühe d indisch 3, 4, 5 und 9. Dal und Ha sein vielleicht schlecht gestellt indisch Ziffer 6 und 2.
+d Indikation durch Punkt sein folgend: 3 für 30, 4 für 400, 6∴ für 6000.
+diese Punkt erinnern an eine alt-griechisch, aber selten Bezeichnung, die erst mit d Myriade anfangen: Α̈ für 10000, Β∷ für 200 Million.
+in diese System geometrisch Progression sein ursprünglich eine Punkt, die man aber nicht anwenden, 100.
+bei Diophantus und Pappus stehen eine Punkt zwischen d Buchstabenzahl, statt d Initiale Μυ (Myriade).
+eine Punkt multiplizieren dann, was zur Linken stehen, 10000 Mal.
+man mögen glauben, daß dunkel Idee von Bezeichnung durch Punkt und Null sich durch Alexandriner aus d Orient nach Europa verbreiten haben.
+d wirklich Nullzeichen, und als etwas Fehlende, wenden Ptolemäus in d abwärts steigend Sexagesimal-Scale für fehlend Grad, Minute oder Sekunde an.
+auch in Handschrift d Theon, im Kommentar zur Syntaxis d Ptolemäus, wollen Delambre d Nullzeichen finden haben.
+es sein daher im Okzident weit alt, als d Einbruch d Araber.
+Planudes Schrift über d Arithmoi Indikoi.
+Kosegarten De Hierogl. Aegypt. P. 54. Gatterer's aus Bianchini (Decad. I. Cap. 3. P. 3.), aus Goguet (I. P. 226.) und aus Debrosse (I. P. 432.) entlehnt Behauptung, daß Ägypter in senkrecht Richtung d 9 Einheit Stellenwert geben, sein durch neu Untersuchung keineswegs bestätigen werden.
+Gatterer, Weltgeschichte bis Cyrus, P. 555. 586.
+S. Gramm. Arabe P. 76. und d d Pl. 8. zugefügt Note.
+Ducange palaeogr. p. xii.
+histoire de l'astron. ancienne t. i. p. 547. t. ii. p. 10.
+d Stelle im Theon sein in seine gedruckt Werken nicht auffinden.
+Delambre sein neigen, d griechisch Nullzeichen bald d Abbreviatur von outen, bald eine besondere Beziehung zuschreiben, in welche d Zahlzeichen Omikron mit d Sexagesimal-Bruch Steht. L. C. T Ii. P. 14. und Journal d Savants.
+1817. P. 539. Sonderbar, daß in d alt-indisch Arithmetik d Lilawati d Null neben eine Zahl bedeuten, daß d Zahl abziehen sein. Delambre I. P. 540.
+was bezeichnen d Ling (eine wahr Null), welche in d chinesisch Zahlzeichen unter 12, 13, 22, 132 schreiben werden?
+in römisch Inschrift sein Null mehrfach wiederholen Obole.
+(Böckh Staatshaushaltung d athener B. 2. S. 379.)
+dritt Methode.
+Vervielfachung d Wert durch Koeffizient.
+was wir bei d Chinese als Indikator in d senkrecht Schrift finden haben, eine Unterschied von 2x=12 und 2x=20, werden in horizontal Richtung bei Grieche, bei Armenier und bei d tamul-redenden Bewohner d südlich Halb-Insel von Indien wiederholen.
+Diophantus und Pappus schreiben ΒΜυ für zweimal zehntausend oder 20000, da ΑΜυβ (wenn Β d Initiale d Myriade rechts stehen) einmal zehntausend plus zwei, oder 10002 bezeichnen.
+dieselbe finden statt bei d Tamulziffer, gleichsam als sein 4x=40 und X4=14.
+im alt-persisch Pehlwi, nach Anquetil, und im Armenische, nach Cerbied erkennen man links stehend Multiplikator, um d Vielfache von 100 ausdrücken.
+hierher gehören auch, d Methode nach, d oben erwähnt Punkt d Diophantus, welche für Μυ stehen und 1000 Mal d Vorhergehende erhöhen.
+Grammaire Armenienne.
+1823. P. 25.
+solch Abteilung durch Punkt, welche, auf eine übrigens sehr inkonsequent Weise, eine Stellenwert bezeichnen, finden man ebenfalls in drei oft bestreiten Stelle d Plinius (Vi. 24. 33. Xxx. 3).
+Vieren Methode.
+Vervielfältigung und Verminderung, aufsteigend und absteigend, durch Abteilung von Zahlschichte, die Wert sich in geometrisch Progression vermindern.
+Archimedes in d Octaden, Apollonius in d Tetraden, haben diese Notation nur in Zahl über (10000)2 und in 100 Million oder eine Myriade von Myriaden gebrauchen.
+hier sein offenbar Stellenwert dieselbe Zeichen, die in verschieden Schichte aufeinander folgen, also eine relativ und absolut Wert, wie in d absteigend Sexagesimal-Scale d alexandrinisch Astronom, wenn sie Grad, Minute, Sekunde angeben.
+da aber im letztere Falle (aus Mangel von N-1 oder 59 Zeichen) jede Schicht zweizifferig sein, so können d Stellenwert nicht d Vorteil indisch Zahl gewähren.
+wenn d dreihundert sechzigst Teil eine Kreis als Ganze betrachten werden, so sein Minute sechzigstel diese Ganze, Sekunde sechzigstel d Minute u. s. F. als Bruch geben sie Ptolemäus demnach bruchähnlich Zeichen, d Strich nach oben, und um d absteigend Progression andeuten, in welche jede Schicht von 2 Ziffer 60 Mal klein als d vorhergehend sein, werden d Bruchstrich von Schicht zu Schicht vervielfältigen.
+auf diese Weise erhalten d Minute d einfach Strich d gemein griechisch Bruch (die Zähler d Einheit sein), d Sekunde zwei solch Strich, d Tertia drei, d Grad selbst, als d Ganze, keine Strich, vielleicht als nichts (outen) eine Null.
+ich sagen vielleicht, denn im Ptolemäus und Theon fehlen noch Null als Gradzeichen.
+Delambre, hist. de l'astron. ancienne t. i. p. 105. t. ii. p. 9.
+über Anwendung d Nullzeichen s. Leslie P. 12. 135. Kuithen, Germane und Grieche Hist. 2. P. 2--33.
+Ducange glossar. mediae graecitatis t. ii p. 572. Mannert de numerorum quos arabicos vocant origine. Pythagor. p. 17.
+in d griechisch Arithmetik bedeuten Mo eine Einheit, Monas, wie eine Delta mit übergeschreiben Null (eigentlich Omikron), Tetartos; Bast, Gregor.
+cor. p. 851.
+so sein beim Diophantus M0 Xα=21.
+d indisch grammatisch Zeichen, Anuswara, haben allerdings d Form d indisch Null (sunya).
+es bezeichnen aber nur eine Modifikation in d Betonung d nahe stehend Vokal und sein d Sunya gänzlich fremd.
+in d einfach Herzählung d verschieden Methode, welche Volk, die d indisch Positions-Arithmetik unbekannt sein, anwenden haben, um d multipel d Fundamental-Gruppe ausdrücken, liegen, glauben ich, d Erklärung von d allmählich Entstehung d indisch System.
+wenn man 3568 perpendikulär und horizontal durch Indikator schreiben:
+[formel] , so erkennen man leicht, daß d Gruppenzeichen M, C ... weglassen werden können.
+unsere indisch Zahl sein aber nichts andere als d Multiplikator d verschieden Gruppe.
+an diese alleinig Bezeichnung durch Einheit (Multiplikator) erinnern ohnedies d Suanpan, mit seine aufeinanderfolgend Schnur d Tausend, Hundert, Zehner und Einheit.
+diese Schnur zeigen in d gegeben Falle 3, 5, 6 und 8 Kugel.
+hier sein keine Gruppenzeichen sichtbar.
+d Gruppenzeichen sein d Stelle selbst, und diese Stelle (Schnur) sein mit d Einheit (Multiplikator) füllen.
+auf beide wegen d figurativ (schreibend) und palpabel (betastend) Arithmetik gelangen man also zur indisch Position.
+sein d Schnur leer, d Schicht im Schreiben offen, fehlen eine Gruppe (eine Glied d Progression), so werden d Leere graphisch durch d Hieroglyphe d Leeren, eine unausgefüllt Kreis: Sunya, Sifron, Tzüphra ausfüllen.
+im Englische haben sich Cypher für null erhalten, da in d abendländisch Sprache, welche Zero (Sifron Siron) für null gebrauchen, Ziffer nur eine Zahlzeichen im allgemein andeuten.
+im Sanskrit heißen nach Wilson Zahl, Quantität:] Sambhara.
+für d sukzessive Vervollkommnung d Zahlenbezeichnung in Indien sprechen d Tamul-Ziffer, die durch 9 Zeichen d Einheit und durch Gruppenzeichen für 10, 100 oder 1000 alle Wert mittels d links zugefügt Multiplikator ausdrücken; dafür sprechen endlich d sonderbar Arithmoi Indikoi im Scholion d Mönch Neophytos, welche in d Pariser Bibliothek (Cod. Reg. Fol. 15.) aufbewahren werden, und die gütig Mitteilung ich Herr Prof. Brandis verdanken.
+d 9 Ziffer d Neophytos sein, außer die 4, ganz d persisch ähnlich.
+d Ziffer 1, 2, 3 und 9 finden sich sogar in ägyptisch Zahlen-Inschrift.
+d 9 Einheit werden 10fach, 100fach, 1000fach erhöhen, indem man eine, zwei oder drei Null darüber schreiben, gleichsam also:
+[formel] . Denken wir uns statt d Null Punkt, so haben wir d arabisch Geobar-Ziffer.
+ich lassen hier d Scholion in eine wörtlich lateinisch Übersetzung folgen.
+d Mönch nennen fälschlich Tzüphron eine indisch Wort.
+Kosegarten P. 54.
+tzyphra est et vocatur id, quod cuivis litterae inde a decade et insequentibus numeris quasi ōμικρὸν inscribitur.
+significat autem hac indica voce tale analogiam numerorum.
+ubi igitur scriptum est simile primae litterae ἄλφα, pro unitate scriptae, atque superimpositum habet vel punctum vel quasi ōμικρὸν, addita altera figura litterae indicae, differentiam et augmentum numerorum declarat.
+e. g. pro primo graeco numero, ᾱ scripto, apud indos | sive linea recta perpendicularis, quando non habet superimpositum punctum vel ōμικρὸν, ipsum hoc denotat unitatem, ubi vero superimpositum sit punctum atque altera littera adscripta sit, figura quidem similis priori, significat xi, propter additamentum similis litterae atque superimpositum unum punctum.
+similiter etiam in reliquis litteris, quemadmodum adspectus docet.
+si vero plura habet puncta, plura denotat.
+quod intelligas, lector, et supputes unumquidque.
+von Position sein hier nicht mehr zu erkennen als in d gobar- Methode.
+man schreiben 3006 also: [formel] ; aber man müssen bald bemerken, daß dieselbe Ziffer mit ander Wert wiederkommen, daß (wenn alle Gruppe ausfüllen sein) in [formel] d so regelmäßig abnehmend Punkt oder Null überflüssig werden.
+diese Null erleichtern gleichsam nur d Aussprechen d Zahl.
+entstehen d Gewohnheit, d Null statt über d Ziffer, neben dieselbe zu schreiben, so haben man d jetzig indisch Bezeichnung für d ungemischt Gruppe [formel] . wollen man zu [formel] , [formel] addieren, so füllen man diejenige Null-Stelle aus, in welche 40, nach seine d Gruppen-Stufe bezeichnend Exponent, hingehören.
+man erhalten so: 3040 und von d 3 Null, welche d Tausend eigentümlich sein, und welche auf d Linie mit d Einheit herabziehen werden, bleiben zwei, als leer, unausgefüllt Stelle.
+nach Neophytos Scholion sein also Null (wie Punkt im Geobar) Indikator für d Notation d aufsteigend Gruppe, und man begreifen, aus d eben entwickelt Betrachtung, wie diese Null, bei Einführung d Stellenwert d Ziffer, in d Reihe herabkommen und sich dort erhalten können.
+wenn wir noch einmal d Blick auf d viel, zum Teil so wenig bekannten, Notationsmethode d Volk beide Kontinent zurückwerfen, so sehen wir 1° wenige Gruppenzeichen, und fast nur für N2, n3, n4 ..., nicht für 2n, 3n, und 2n2, 2n3 ... wie bei Römer und tuskern x, c, m (daher alle Zwischenstufe, z. B. 2n oder 2n2, durch Juxtaposition wie in Xx oder CCC bezeichnen werden); 2° viel Gruppenzeichen nicht bloß für n, n2 (iota und rho in d griechisch Buchstaben-Ziffer), sondern auch für 3n oder 4n2 (in λ und υ), woraus groß Heterogenität d einzeln Element im Ausdruck für 2+2n+2n2 entstehen (z. E. Σχβ für 222); 3° Bezeichnung d Vielfache d Fundamental-Gruppe und ihr Potenz (2n, 3n, 4n2, 5n2), entweder durch Hinzufügung (darüber und daneben) von Indikator zu d Gruppenzeichen (chinesisch: [formel] , [formel] ; Indisch-Tamulisch 2x, 3x, 4c, 5c), oder durch stufenweise Bepunctung oder Accentuirung d erst 9 Einheitszeichen, gleichsam [formel] , im Geobar, im Scholion d Neophytos, und in absteigend Sexagesimal-Scale d alexandrinisch Astronom für [formel] , [formel] , in 1° 3' 37" 37''' ...
+wir haben sehen, wie d Indikator (Multiplikator) d Ost-Asiate und Bewohner d südlich und indisch Halb-Insel, oder, wenn ursprünglich Gruppenzeichen für n, n2, N3 verschieden sein, wie d Accentuirung d Püthmenes im Geobar-System, oder Scholion d Neophytos, ja endlich wie d Kugelschnur d Suampan, in die eine potenziert Wert nur durch relativ Lage d Schnur ausdrücken werden, zum Stellenwert führen können.
+wir abstrahieren hier d Kürze wegen von d Gruppenzeichen d dazwischen laufend Quinar System v, l, d ...
+ob d einfach indisch Positions-System seine Weg in d Abendländer durch d Aufenthalt d gelehrt Astronom Rihan Muhammed Ebn Ahmet Albiruni in Indien, oder durch maurisch Zollbeamte an d nord-afrikanisch Küste und d Verkehr d italienisch Kaufmann mit diese Zollbeamte finden haben, lassen wir hier unentschieden.
+eben so ungewiß sein es, trotz d Alter d indisch Kultur, ob d Positionssystem, welche so mächtig auf d Zustand d Mathematik einwirken haben, schon zur Zeit d makedonisch Expedition jenseits d Indus bekennen sein.
+wie ganz anders, vervollkommnen, werden Archimedes, Apollonius Von Perga und Diophantos d mathematisch Wissenschaft d gelehrt Zeitalter d Haschemit überliefern haben, wenn d Abendländer, 12 oder 13 Jahrhundert früh, also durch Alexanders Heerzug, d indisch Positions-Arithmetik empfangen haben.
+aber d von d Grieche durchziehen Teil von Vorder-Indien, d Penjab bis Palibothra hin, sein, nach Herr Lassen's gelehrt Untersuchung, eine Wohnsitz wenig kultiviert Volk.
+von d östlich wohnend werden sie selbst Barbar nennen.
+erst Seleucus Nicator dringen über d Grenze, welche Kultur und Unkultur scheiden, über d Fluß Sarasvati bis zum Gang vor.
+wir sehen aus d alt indisch Tamul-Ziffer, die durch beigesetzt Multiplikator 2n, 3n2 ... ausdrücken, und daher außer d Zeichen für d erst 9 Einheit, eigen Zeichen für n, n2, n3 ... haben, daß in Indien, neben die fast allein sogenannt indisch (oder arabisch) Zahlen-System mit Stellenwert, auch andere, ohne Stellenwert, gleichzeitig existieren haben.
+vielleicht kommen Alexander und seine bactrischen Nachfolger bei ihr temporär Vordringen nicht mit Nation in Kontakt, bei welchen d Positions-Methode ausschließlich vorherrschen.
+nach d gelehrt, d griechisch und arabisch Astronomie gleich kundig Orientalist Sedillot Bemerkung.
+Lassen, Comment. Geogr. De pentapot. p. 58.
+mögen d Spur von d viel, was noch zu entdecken übrig sein, recht bald ernst verfolgen werden, teils von Philologe, welche griechisch, persisch oder arabisch Handschrift zu untersuchen Gelegenheit finden, teils von Reisende, die sich in d indisch halb- Insel selbst aufhalten.
+d bloß Pagenation alt Codices aus d sanscrit- Literatur können zu merkwürdig Beobachtung führen.
+wer werden z. B. ahnden haben, daß es unter d Indiener, neben d Decimal-Positions-Arithmetik, eine Sedecimal-System ohne Position geben, daß gewiß indisch Stamm meist nach Gruppe von 16, wie d amerikanisch Volk, d Kymre und Baske, nach Gruppe von 20 zählen.
+eine solch seltsam Enumeration sein aber vor mehr als 10 Jahr in eine Kodex d alt-indisch Gedicht mahabharata (cod. reg. paris. p. 178.) vom Herr Professor Bopp auffinden, und ich zu d Zeit, als ich meine erst Abhandlung über d Zahlzeichen d Volk d Akademie d Inskription et belles lettres vorlegen, gütig zur Bekanntmachung mitteilen werden.
+fünf und sechzig Seite diese Handschrift sein mit indisch Buchstabenzahl paginieren, doch so, daß nur d Konsonant d Sanskrit-Alphabet (K für 1, Kh für 2 ...) gebrauchen werden, was d bisher so allgemein verbreitet Vorurteil widersprechen, als finden sich in Indien bloß Ziffer, nicht Buchstabe als Ziffer gebrauchen, wie bei semitisch Stamm und d Grieche.
+mit d 60sten Seite beginnen d wunderbar Sedecimal-Notation.
+man erkennen in d erst 15 Püthmenes kaum zwei Zeichen, -- d Sanskrit-Buchstabe sein etwa für 3 eine aspiriert T und für 12 eine D, -- eben so wenig d eigentlich sogenannt indisch (arabisch) Zeichen.
+merkwürdig sein, daß d Ziffer 1 mit eine beigesetzt null 4, d Ziffer 1 doppelt (zwei senkrecht Strich) mit eine beigesetzt Null 8 bedeuten, gleichsam Ruhepunkt, Mittelstufe d Sedecimal-Systems für [formel] und [formel] n; aber [formel] von n (12) sein ohne null und haben eine eigen Hieroglyphe, d arabisch 4 ähnlich.
+für d Normalgruppe selbst, 16, und für d multipel d Normalgruppe:
+2n, 3n ... werden d bekannt bengalisch Ziffer gebrauchen, so daß 16 d bengalisch 1 mit eine vorgesetzt gekrümmt Strich; 32 d bengalisch 2; 48 d bengalisch 3 sein.
+d multipel von n sein also bloß wie Gruppe erst, zweit, dritt ... Ordnung; d Zahl 2n+4 oder 3n+6 (d. I. im Sedecimal-System 36 und 54) sein durch eine bengalisch 2 und eine beigefügt Mahabharata-Ziffer 4, wie durch eine bengalisch Ziffer 3 und eine beigefügt Mahabharata-Ziffer 6 bezeichnen: eine zwar sehr regelmäßig, aber unbehilflich verwickelt Art zu nummerieren, die Ursprung um so rätselhaft sein, da sie d Kenntnis d bengalisch Ziffer voraussetzen.
+unter d arabisch Handschrift sein besonders solch zu empfehlen, welche vom zoll- und Finanzwesen, oder von d Arithmetik im allgemein handeln, z. B. Abu Jose Alchindus de arithmetica indica; Abdelhamid Ben Vasee Abulphadl, de numerorum proprietaibus; Ahmad Ben Omar Alkarabisi lieber de indica numerandi ratione; d indisch Algebra d Katka; Mohammed Ben Lara de numerorum disciplina (Casiri Bibel. Arabicohispana T. I. P. 353. 405. 410. 426. 433.)
+si l'arithmetique de position n'est pas originaire de l'inde, elle doit au moins y avoir existe de tems immemorial; car ohne ne trouve chez les indiens aucune trace d'une notation alphabetique telle que la notation des hebreux, des greos et des arabes (Delambre hist. de l'astron. ancienne t. i. p. 543.).
+ich bedienen ich hier diese uneigentlich Ausdruck, bloß um d Zahlen-System, welche eine Abschrift d Gedicht darbieten, mit eine paßend Wort zu bezeichnen.

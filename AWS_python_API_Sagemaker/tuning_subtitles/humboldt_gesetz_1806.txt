@@ -1,0 +1,338 @@
+Annalen d PHYSIK. herausgeben VON Ludwig Wilhelm Gilbert, Professor d Physik und Chemie zu Hall, und Mitglied d Gesellschaft NATURF. Freund in Berlin, d batavischen Gesellschaft D. Wissenschaft zu Haarlem, d NATURWISSENSCH. Sozietät zu Halle, Gröningen, Jena, Mainz, Mansfeld U. Potsdam, und d Gesellschaft d Wissenschaft zu Göttingen Korrespondent.
+Vier und zwanzigst Band.
+nebst vier Kupfertafel.
+Hall, in d rengersch Buchhandlung 1806.
+Annalen d PHYSIK. Jahrgang 1806, neunt Stück.
+i. Beobachtung über d Gesetz d Wärmeabnahme in d hoch Region d Atmosphäre, und über d unter Grenze d ewig Schnee, von Alexander Von Humboldt.
+(im Auszug.)
+Herr Von Humboldt eröffnen mit d Abhandlung, welche er diese wichtig und noch viel zu wenig untersuchen Gegenstand widmen haben seine gelehrt Tätigkeit als Mitglied d Berliner Akademie d Wissenschaft, von die d Freund d Naturlehre sich eine wohltätig Erfolg für d Studium und d Flor diese und alle exakt Wissenschaft in unsere deutsch Vaterland versprechen.
+d Schrift d Akademie auf d gegenwärtig und d folgend Jahr werden, wenn sie endlich erscheinen, diese mit groß Sorgfalt angestellt und mit eben so viel Klarheit als Vollständigkeit durchgeführt Forschung in ihr ganz Umfang enthalten.
+d Leser hier eine vorläufig Nachricht von denselben und Fragment aus d Vorlesung mitteilen zu können, die er eine ähnlich Belehrung, wie ich d Lektüre d Ganze, verschaffen werden, schätzen ich mich glücklich.
+in Wissenschaft, die so rasch vorwärts schreiten, als in d neu Zeit alle Teil d Naturkunde, scheinen d eigen Interesse eine gelehrt Verein zu fordern, dass die, was jetzt neu und folgereich sein, nicht erst dann in d Publikum kommen, wenn es d Reiz d Neuheit ganz verlieren haben, und wenn andere schon d Idee, oder wohl gar d ganz Arbeit sich bemächtigen haben; daher selbst d Mitglied d französisch Nationalinstitut, La Place nicht ausnehmen, allgemein interessant Untersuchung im Feld d Physik durch ziemlich vollständig Auszug vorläufig in d Publikum bringen.
+eine in mehr als eine Hinsicht löblich Sitte, die mit d für manche Fächer zweckmässig Einrichtung d Akademie, dass d für ihr Schrift bestimmt Untersuchung nicht eher, als in diese vollständig drucken werden sollen, meiste Teil ganz gut bestehen können.
+in d Einleitung zu seine Abhandlung machen Herr Von Humboldt darauf aufmerksam, wie wenig für d physikalisch Erdebeschreibung, oder vielmehr für d Physik d Erde, (Physique Du Monde,) bis jetzt im Ganze von reisend Naturforscher geschehen sein, weil sie sich alle fast ausschließlich mit d naturbeschreibend Wissenschaft und mit d Sammeln beschäftigen, und es vernachlässigen haben, "d groß und stet Naturgesetz, die sich in d rasch Wechsel d Erscheinung zeigen, und d Ineinanderwirken, gleichsam d Kampf d entzweit Naturkraft, nachspüren."
+"so leidenschaftlich", fügen er hinzu, "ich auch d Pflanzenstudium beschäftigen, so unbeschreiblich groß auch d Genuß sein, welchen ich d Anblick jen üppig aufstrebend und dabei so kraftvoll Vegetation gewähren, so bleiben doch mein Hauptaugenmerk auf diese Untersuchung richten.
+Intensität d Magnetismus, oder Stärke d Ladung d Erdekörper in verschieden Zone und Höhe, durch d Schwingungszahl eine polarisierend Nadel messen; stündlich Veränderung d magnetisch Meridian; d allgemein meteorologisch Erscheinung; jährlich, monatlich und stündlich mittel Wärmeabnahme d Temperatur in d hoch Luftschichte, und Prüfung d Gesetz, welche diese Abnahme befolgen; regelmässig Ebbe und Flut d Luftmeer, durch d stündlich Barometerveränderung andeuten, und unter d Äquator durch keine Witterungsveränderung in ihr Gang stören; chemisch und hygroskopisch Beschaffenheit d Atmosphäre; Einwirkung d Sonnenstand und d Berghöhe auf d elektrisch Ladung d Luft;" - diese und ähnlich allgemein Naturerscheinung haben ich zum Hauptgegenstand meine Reisebeobachtung machen.
+- - "eine gründlich Bearbeitung diese Gattung von Phänomen, welche auf groß Naturgesetz hinleiten, und über die ich ich schmeicheln dürfen neu Versuch und neu Meßung anstellen zu haben, sein in d jetzig Zeitpunkt vielleicht um so wünschenswert, da d physikalisch Wissenschaft jetzt mehr als je zwischen d zwei Extrem, eine kleinlich, oft geistlos Behandlung d Einzelne, und eine gar kühn, aber willkürlich und naturwidrig Behandlung d allgemein schwanken."
+es sein aus d vorläufig Anzeige d Werk, welche Herr Von Humboldt über seine Reise heraus geben werden, bekannt, dass Herr Prony es übernehmen haben, d barometrisch Höhenmeßung, welche diese rastlos Beobachter in Amerika anstellen haben, über 500 an d Zahl, nach d Laplace'schen Formel, unter Zuziehung alle Korrektion aufs neu zu berechnen.
+diese berichtigt Höhenbestimmung bedienen sich Herr Von Humboldt bei d folgend Abhandlung noch nicht.
+man sein daher berechtigen, klein Unterschied in d Höhe zu erwarten, wie er sie hier angeben, und wie sie in d Teil seine Reise erscheinen werden, die d astronomisch und physikalisch Beobachtung und Meßung enthalten werden.
+(Annalen, Xx, 363.)
+in so fern mögen man d in diese Aufsatz mitgeteilt Enderesultat, ihr Zahlwert nach, nur für vorläufig Resultat nehmen.
+doch d Leser werden begierig sein, Herr Von Humboldt selbst zu hören.
+Gilbert.
+ich wählen zu d Gegenstand meine heutig und d nächstfolgend Vorlesung, d Gesetz d Wärmeabnahme in d Atmosphäre, d unter Grenze d beständig Schnee, und d Erscheinung, welche unmittelbar mit diese bald niedrig bald hoch Schneegrenze zusammen hängen.
+wenn man von d Ufer d Südensee aus d hoch Andenkette hinauf steigen, wenn man z. B. von d Krokodilreiche Rio De Guayaquil aus, sich gegen d Gipfel d Chimboraco erheben, so finden man in eine eng Erderaum alle Klima schichtenweise über einander lagern.
+in eine Tag sehen man d Anblick d Natur sich rasch und auffallend verändern, als wenn man tausend geographisch Meile weit vom Äquator nordwärts bis gegen d Mündung d sklaven- oder Mackenziefluß reisten.
+von d Fläche d Südensee an, bis zu 400 oder 500 Toise Höhe, also bis zu eine Luftschicht, in welche d Gipfel d Vesuv und unsere deutsch Brocken hinauf reichen, finden man Palme und Pisanggewächse.
+diese Region sein mit Theophrasten und Mussaende, mit rot und gelb blühend Plumerien, mit Cäsalpinien und breitlaubig Helikonien schmücken.
+diese sein d glühend Vaterland d Jaguar, d Affe und d bunt gefiedert Papagei.
+weiter aufwärts, unter mild Himmel, in angenehm Kühlung, erscheinen d baumartig Farnkraut, d tropisch Eichen und d Cinchonen, welche d wohltätig Fieberrinde geben, und von die zwei Art, Cinchona Lanceifolia und Cinchona Cordifolia, (nach Zea identisch mit C. Angustifolia und C. Hirsuta, Flora Peruv.,) sich fast bis 1500 Toise, oder bis zu Höhe erheben, die d d Libanon oder d Canigou in d Pyrenäenkette gleich sein.
+auf d Region d Chinabäume folgen d d Escallonien und d Zimmt-Wintera.
+in kalt, ewig Nebel hüllen, breit hier verkrüppeln und durch d Sauerstoff d Luft verkohlt Stamm schirmartig ihr sparrig Zweig aus.
+diese unfreundlich Alpe zwischen 1600 und 2000 Toise Höhe, zwischen d Höhe d Aetnagipfel und d Pic von Teneriffa, nennen d Spanier Paramo.
+d zwergartig Baum aus d Myrtenfamilie hören endlich ganz auf; krauterartig Alpenpflanze mit zart Wolle dicht bedecken, reichen bis 2100 Toise Höhe.
+dann folgen d öde Grasflur, die in d Ferne gelblich leuchten, und in welcher, am westlich Abhang d Chimboraco, herdenweise verwildert Lama, und einzeln d klein kurzbeinig Berglöwe (Felis Puma) umher schwärmen.
+wo d Gras aufhören, bedecken Kryptogamische Gewächs, besonders Isidien und Leprarien, d nackt Trapp-Porphyr.
+in eine Höhe endlich, welche d d Montblanc um einige Toise übertreffen, beginnen d ewig Schnee.
+diese Berglöwe, die ich Felis Puma nennen mögen, verhalten sich zum gewöhnlich amerikanisch Löwe, zur groß aber ungemahnt felis concolor, wie d Tigerkatze Felis Pardalis und Tigrina zu d groß prächtig gelb gefleckt Tiger d Guyana, und Brasilien Felis Onza.
+La Condamine finden d Spur diese Berglöwe auf frisch gefallen Schnee am Vulkan d Pichincha im Juni 1742. (voyage à l'equateur, P. 153.)
+Puma sein eine Wort d quichua- oder altperuanisch Hofsprache.
+Pumayruna bedeuten: tapfer wie eine Löwe sein; Pumaimanani:
+Mut wie eine Löwe fassen.
+d klein 18 Zoll hoch, braungelb Berglöwe d Königreich Quito sein nicht mit d Puma d Hernander, d wahr Felis Discolor, zu verwechseln.
+V. Humb.
+so stellen d Abhang d Gebirge gleichsam d umgekehrt Scale eine botanisch Thermometer dar, und d Reisende, die in d vegetations- und wasserleer wissen d peruanisch Küstenland nach Stillung seine Durst und nach Kühlung lechzen, sehen 15000 Fuß über seine Haupt, auf d Gipfel d Anden, d groß Schneedecke ausbreiten, welche unter günstig Refractionsverhältnissen über 50 Seemeile weit in d Ebene sichtbar sein.
+diese Kontrast zwischen Pisanggewächsen und ewig Schnee, diese Anblick entgegen gesetzt Jahrszeit, welche gleichzeitig und fast schichtenweise in eine Zone über einander liegen, sein unter d Äquator um so auffallend, als, an keine Wechsel d Temperatur gewöhnen, d Bewohner d Ebene dort d Wasser nie, selbst nicht im Hagel, zu eine fest Körper erstarren sehen.
+weiter gegen d Pol hin, in d so genennt gemäßigt Zone, machen d Phänomen d beständig Schneegrenze eine analog, aber minder lebhaft Eindruck.
+in eine groß Teil d Jahr sein hier d ganz Erdefläche, Berg und Tal, mit Schnee und Eis bedecken.
+mit wiederkehrend Milde d Frühling scheinen d Winter stufenweise aufwärts zu ziehen.
+d Schneedecke erheben sich nach und nach am Abhang d Bergkette, bis sie sich unveränderlich, am Ende d Sommer, auf eine gewiß Höhe erhalten.
+diese Höhe sein im mittel Europa schon um mehr als eine Drittel niedrig als in d Tropenland.
+in hoch Breitengrad nahen sich d Schneegrenze d Erdefläche selbst, und in d nördlich Gegend bleiben sogar d Ebene d ganz Jahr hindurch immerfort mit Schnee und Eis bedecken.
+diese Erscheinung, diese allmählich Niedersinken d unter Grenze d ewig Schnee, welche wir hier im Große schildern haben, sein eine allgemein und längst bekannt Tatsache.
+sie sein Folge d Abnahme d Wärme in d ober Luftregion, und d flüchtig Beobachter sein durch sie auf d Schluß geleiten werden, dass unter verschieden Breitengrad Berg von einerlei Höhe mit sehr ungleich Teil ihr Gipfel in d beständig Schneezone reichen müssen.
+Bouguer sein unstreitig d erst sein, die, in d Einleitung zu seine Werk über d Figur d Erde, d verschieden Höhe d unter Schneegrenze untersuchen haben.
+er bestimmen sie unter d Äquator auf 2434 Toise, unter d 28sten Grad d Breite auf 2100 Toise, und in Frankreich und Chile auf 1500 bis 1600 Toise Höhe über d Meer.
+bloß d erst Zahl folgen aus Bouguer's eigen Meßung; d zweit und dritt sein aus fremd Beobachtung schließen, und um so unzuverlässig, als diese Schluß sich auf feuillee's Meßung d Pic von Teneriffa gründen; eine Berg, die nicht nur keine ewig Schnee haben, sondern auch um 200 bis 300 Toise niedrig sein, als er d Pater Feuillee und Bouguer annehmen.
+seit diese letztere vortrefflich Mathematiker scheinen sich niemand mit d Schneegrenze, weder zwischen d Wendekreis, noch in d gemäßigt Zone südlich als d 38ste Breitengrad, beschäftigen zu haben.
+Kirwan's oft nachgedruckt Tafel über d Höhe d ewig Schnee in d verschieden Erdestrich sein bloß nach meteorologisch Hypothese und nach Bouguer's als wahr angenehmen Fundamentalzahl berechnen werden.
+nur in d mittel Breiten von 43 und 46 Gerade, in d Pyrenäen und Schweizer Alpe, haben man in neu Zeit genau Bestimmung über diese wichtig Naturerscheinung anstellen.
+Saussüre, Pictet, Pini und Ramond sein vorzüglich darauf aufmerksam sein, und alle klagen mit Recht, dass es an vervielfältigt Meßung über d Schneegrenze unter ander Himmelsstrich fehlen.
+figure de la terre, P. Xlv, und vorzüglich P. Xlix und Liii.
+an Estimat.
+of the temperat. of differ. latitudes. lond. 1787.
+deutsch Übersetzung, S. 24.
+ich haben bei meine Reise nach d Tropenland d neu Weltteil Gelegenheit haben, d Höhe diese Schneegrenze unter solch Breitengrad zu messen, unter welchen sie noch nie unmittelbar beobachten werden sein.
+alle Berechnung, welche d Mathematiker über d Krümmung d Schneelinie anstellen können, werden vergeblich sein, wenn nicht mehrere und genau bestimmt fest Punkt angeben werden, durch welche sie legen werden sollen.
+ich glauben daher, dass es eine für d Naturkunde nicht ganz unfruchtbar Unternehmen sein werden, wenn ich in zwei Abhandlung d Phänomen d ewig Schnee, in seine ganz Allgemeinheit von neu betrachten, und dadurch d glücklich Anwendung eine d Interpolationsmethode auf diese Gegenstand vorbereiten.
+es sein d Pflicht d Physik, da, wo es auf konstruierbar Begriff ankommen, d Mathematik durch Ausmittelung eine groß Anzahl genau Tatsache, brauchbar Material zur Berechnung d Naturgesetz darbieten.
+ich werden in d erst Abhandlung d progressiv Wärme-Abnahme in d Luftschichte, als Hauptursache d ewig Schnee, und d Lokalität bestimmen, welche auf diese Progression einwirken.
+in d zweit Abhandlung werden ich d Höhe betrachten, in welche sich d Schneelinie in d verschieden Erdestrich erhalten, d meteorologisch Phänomen aufzählen, welche mit diese Höhe unmittelbar zusammen hängen, und endlich zeigen, welchen Nutzen d Physiker aus d richtig Kenntnis d unter Schneegrenze für d Bestimmung d mittel Temperatur d Ebene für Erweiterung d Gebirgeskunde, für schnell Meßung d Berggipfel, und für d Anfertigung mineralogisch Karte ziehen können.
+erst Abhandlung.
+über d Gesetz d Wärmeabnahme in d hoch Region d Luftkreis.
+um d Erzeugung d Wärme auf unsere Planet und d Gesetz d abnehmend Wärme aus eine allgemein Gesichtspunkt zu betrachten, denken man sich zuerst eine Sphäroid gasförmig, und also elastisch Flüßigkeit, welche über einander schichten sein, ohne eine dicht Kern einschließen.
+man stellen sich d Materie in eine Zustand vor, d La Place bei d erst Bildung d Planet voraus setzen, oder wie er Herschel in d dunstförmig kernlos Masse annehmen, welche er planetarisch Nebelfleck nennen.
+sein d Halbmesser diese Sphäroid gasförmig Flüßigkeit d Höhe unsere Atmosphäre gleich, so werden d Sonnenstrahl keine ander Wärme darin erregen, als d, welche von d Verminderung oder Verschluckung d Licht (extinction de la lumière) herrühren.
+d Gesetz diese Lichtabnahme sein in La Place's exposition Du System Du Monde, T. 1, P. 157, entwickeln, und in meine Gemälde d Tropenwelt, welche gegenwärtig zu Paris drucken werden, befinden sich eine Tafel, welche Herr Biot über diese Phänomen berechnen haben.
+so wie d Lichtabnahme in d dicht, d Zentrum d frei schwebend Luftsphäroid nähern Schichte am stark sein, so werden, nach eben d Hypothese, auch dort eine etwas groß Erwärmung, als in d ober Region Stadt finden.
+da aber alle Luftschichte als rein-durchsichtig annehmen werden, so können diese Unterschied d Erwärmung, wie d Erwärmung selbst, nur überaus gering sein.
+betrachten man eine einzeln Luftschicht besonders, z. B. eine, die d Zentrum nahe sein, so werden zwar in diese Schicht hoch und niedrig Sonnenstand klimatisch Temperaturveränderung hervor bringen, je nachdem d Sonnenstrahl diese einzeln Luftschicht ganz oder nur teilweise durchstreichen; diese Temperaturveränderung sein aber bloß Differential von d ohne diese schon so unmerklich absolut Wärme d lichtverschluckend Luftraum.
+wir werden in d Folge sehen, dass eine solch Hypothese keineswegs spielend ersinnen sein, sondern dass d ober Region unsere Atmosphäre sich wirklich fast in eine ähnlich Zustand befinden.
+denken man sich die in d Himmelsraum frei schwebend Sphäroidtisch Gasgemenge vergrössern, z. B. von gleich Durchmesser als d Erde, so werden sich im Innere dieselbe, durch d Druck d elastisch Schichte selbst, eine rein Luftmasse bilden, in welcher Metall sich schwimmend erhalten können.
+ob Sauerstoff und Stickstoff bei diese ungeheuer Kompression noch gasförmig bleiben, oder ob sie, wie d atomistisch Physiker sagen, mit Auspreßung eine Teil ihr spezifisch Wärme, zu eine tropfbar, oder gar zu eine fest Gemisch zusammen treten werden, die sein eine Frage, welche wir hier nicht zu erörtern haben.
+nach jede diese Vorstellungsart müssen man d Innere eine so groß Sphäroid elastisch Flüßigkeit als eine durchsichtig, aber überaus dicht Kern betrachten; und da in diese d Spiel strahlend Wärme doch bemerkbar sein werden, so gehen wir lieber von eine nun nicht mehr einfach Hypothese, unmittelbar zur Wirklichkeit über.
+auf unsere Planet sein, nach seine jetzig Zustand, Materie auf einander lagern, welche sich in drei verschieden Zustand d Kohärenz befinden.
+gasförmig Schichte d Luftkreis ruhen, (wenigstens an d groß Teil d Erdefläche,) auf tropfbar-flüssig Schichte d Meer, und diese bedecken d fest Erdekörper.
+aus diese Lagerung, aus diese scharf und gegenseitig Begrenzung so ungleich dicht und ungleich verschiebbar Materie, entstehen eine ungleich Verteilung d Temperatur; d ewig Strebe in sie nach Wiederherstellung d Gleichgewicht erhalten Bewegung und inner regsam Leben in d Natur.
+sein, wie auf unsere Planet, eine fest Kern mit elastisch Gasgemenge bis zu eine unbekannt Grenze umfließen, so geben es in d ober Luftregion drei, vielleicht selbst vier Ursache d Erwärmung.
+d erst sein Folge d gering Lichtverschluckung, welche d Sonnenstrahl bei ihr durchgegehen durch d Luftschichte leiden.
+diese Ursache werden um so wirksam sein, je durchsichtig d Medium selbst, und je rein und gleichmäßig d Wasser in d Luft auflösen sein.
+wer oft hoch Berggipfel besteigen haben, finden eine untrüglich Merkmal von d unbeschreiblich Durchsichtigkeit d Bergluft, in d Nähe in welche durch diese Bergluft entfernt Gegenstand erscheinen.
+als ich am 26sten Mai 1802 d zweit Reise nach d Krater d Pichincha, westlich von d Stadt Quito, unternehmen, sein ich von mehrere Person, welche auf Maultier reiten, und von viel indianisch Fußbote, welche Instrument tragen, begleiten.
+wir sein meist alle mit d Art weiß Mantel, welche d Einwohner Poncho nennen, bedecken.
+d Vulkan sein bei d Dorf Kilo in d groß Ebene Cachapamba, welche ich 1285 Toise über d Meeresfläche erhaben finden haben, in seine ganz zertrümmert Gestalt sichtbar.
+d Wetter sein so heiter, und d Bergluft so durchsichtig, dass unsere Freund in Kilo mit bloß Auge jede einzeln Reiter erkennen können.
+d weiß Poncho leuchten gegen d schwarz Basaltporphyr d Vulkan.
+aus eine trigonometrisch Meßung, welche ich in d Ebene Cachapamba anstellen haben, kennen ich d Entfernung d Felsklippe, auf die wir sehen werden; sie betragen 14022 Toise, oder fast 4 geographisch Meile von Kilo.
+in diese Entfernung erscheinen eine Mensch unter eine Winkel von 13"; eine Gesichtswinkel, die für eine nicht brennend und bei Tag gesehen Objekt überaus gering sein.
+auf d Antisana, eine d hoch Gipfel d Andenkette, östlich von d Stadt Quito, in eine Höhe von 16638 Fuß, unterscheiden ich bei heiter Sonnenschein, und rein Bergluft, Kopf und Flügel d Kundurs, (vultur gryphus,) in eine Entfernung, bei welche sich d ganz Vogel gewiß unter eine noch klein Winkel als 13"; darstellen.
+in d Ebene erlauben d Schwächung d Lichtstrahl beim durchgegehen durch eine dicht Medium nie, klein Gegenstand in so beträchtlich Entfernung zu erkennen.
+d unbegreiflich, oft schreckend Nähe, mit die sich bei etwas feucht, aber heiter Luft, plötzlich hoch Gebirge, besonders Schneealpe, d Auge zeigen, beweisen ebenfalls, welcher Durchsichtigkeit d ober Luftschichte fähig sein.
+ander Beweis können man von d cyanometrisch Erscheinung hernehmen.
+d Schwärze d Himmelsbläue, welche auf d hoch Andenkette 46° betragen, während ich sie an d Ufer d Südensee kaum 24° schätzen, zeugen für d ungehindert Leichtigkeit, mit die d Sonnenstrahl durch d ober Luftregion hindurch gehen.
+bei eine so gering Absorption von Licht können demnach d Wärme, welche d d Erde zuströmend Sonnenstrahl in 3000 bis 4000 Toise Höhe über d Meeresfläche erregen, nur äußerst gering sein; sein es, dass man d Sonnenstrahl selbst als warm, oder, mit De Lüc, als Wärme aus d Luft entwickeln, oder mit Thomson, nach Herschel's neuerlich sehr zweifelhaft gemacht Versuch, als von strahlend Wärme begleiten, annehmen.
+d zweit und ungleich wirksam Ursache d Wärme in d ober Schichte d groß Luftmeer sein d Strom erwärmt Gasart, (kurant Ascendant,) welche immerfort von d fest, dunkel gefärbt, und deshalb in seine Oberfläche erhitzt Erdekern aufsteigen.
+mit d Wirkung diese Luftstrom hängen d wichtig meteorologisch Erscheinung, z. B. d Auflösen d Wolke, ihr Steigen über erwärmt Ebene, d Nichtregnen in d pflanzenlos wissen zwischen d Wendekreis, und d Spiel d wechselnd see- und Landwinde zusammen.
+ohne diese aufsteigend Luftstrom werden d Höhe d Montblanc und d Chimboraco zu jede Jahreszeit, wegen fürchterlich Kälte, unzugänglich sein; ohne er werden d Verhältnis von Sauerstoff und Stickstoff in d ober Atmosphäre ganz verschieden von d sein, welche man in d unter Luftschichte bemerken.
+diese vertikal Winde haben bisweilen eine nachteilig Einfluß auf d Genauigkeit barometrisch Höhenmeßung, wie Herr Ramond in seine Mémoire über d Koeffizient d De La Place'schen Barometerformel schön entwickeln haben.
+in d Höhe d Col Du ahnen, (1763t,) werden diese Einfluß in Saussüre's Beobachtung noch sehr bemerkbar.
+ob neben d Fortbewegung d Teil, oder Strömung, welche in jede erwärmt Flüßigkeit entstehen müssen, noch eine Mitteilung oder Leitung d Wärme Stadt finden, und ob diese Leitung für sich allein d Temperatur d ober Region d Atmosphäre zu erhöhen im Stand sein, sein seit d Versuch d Graf Von Rumford, Dalton's und ander englisch und deutsch Physiker über d wärmeleitend Kraft d Flüßigkeit, zweifelhaft werden.
+auch sein glücklich Weise diese Frage für d Meteorologie von minder Wichtigkeit, da diese Mitteilung von d Wirkung d Strömung nur in d selten Fall unterscheiden werden können, wenn d warm Luftschicht über d kalt liegen und herabwärts wärmen sollen.
+Winde, welche in eine groß Höhe, aus die d Äquator nah Gegend in d nördlich blasen, können allerdings eine solch fast unnatürlich scheinend Lage ungleich erwärmt Luftschichte verursachen.
+als eine Beispiel davon können man d warm Luftströmung betrachten, welche immerfort in d ober Region vom Äquator aus, gegen d Pole hin richten zu sein scheinen, und welche in Verbindung mit d Rotation d Erde, nach La Place's sinnreich Theorie, unten ost- und oben Westenwinde in d Tropenland erregen.
+eine viert Ursache d Wärme in d hoch Region d Atmosphäre sein d strahlend Wärme, welche d von Luft umfließen, und von d Sonne erhitzt Erdball selbst, nach alle Richtung aussenden.
+nach d Natur und Farbe d Erdeoberfläche sein d Menge diese strahlend Wärme verschieden.
+sie sein anders in thonschiefer- und in Grauwackenschiefer-Gebirge, anders auf Kalkstein und in Kreidehügel.
+man finden sie groß über d fest Land, als über d Meer, welche eine Teil d Sonnenlicht, bis zu eine gewiß Tiefe, frei durchlassen, und seine Flüßigkeit und Verdampfbarkeit wegen, keine beträchtlich Erwärmung fähig sein.
+sie müssen stark auf vegetationsleer, als auf waldig und dabei feucht Ebene sein.
+d plötzlich Steigen eine Thermometer beim durchgehen eine Gewölk durch d Zenit d Beobachter beweisen, wie beträchtlich d Wirkung d von d Erde ausgehend Wärmestrahlung, wenigstens noch in 500 bis 600 Toise Höhe sein.
+deswegen scheinen auch d Sommerhitze dann am drückend, wenn d Himmel mit Gewölk bedecken sein, und d strahlend Wärme d Erdekörper auf denselben zurück werfen werden.
+schon in d Problem d Aristoteles, in d 25sten Section, werden eine ganz ähnlich Erklärung diese Naturerscheinung geben.
+d Dunsthülle, heißen es daselbst, hindern d Wärme, von d Erde zu entweichen.
+wenn man diese Stelle mit eine ander sehr merkwürdig im erst Buche d Meteorologica zusammen halten, so erkennen man, dass d alle ahndend Stagirite neben seine Auflösungstheorie auch recht deutlich Begriff von d Zerstreuung strahlend Wärme, und von d Einfluß d letztere auf d Höhe d Wolkenschichte haben.
+Aristot.
+Opera Omnia, Ed. Casaub., T. Ii, P. 458.
+meteorologica, l, 1, c. 3; l, c., p. 327.
+d Entwicklung d genennt vier Ursache:
+(d Absorption d Licht in d dicht oder dünn Luftschichte, d Aufsteigen d erwärmt gasförmig Flüßigkeit, d Mitteilung durch Leitung, und d vom fest Erdekörper ausgehend strahlend Wärme,) erklären zugleich von selbst, warum d Temperatur d Luft abnehmen müssen, so wie man sich von d fest planetarisch Kern entfernen.
+d Wärme entbindend Lichtverschluckung, (extinction de la lumière) abrechnen, sein d übrig Ursache von d Art, dass man d von d Sonne erleuchtet Erdball gleichsam selbst als d Quelle d Wärme betrachten können.
+je mehr man sich also d Oberfläche d Luftozean nähern, (falls er anders begrenzen und eine Oberfläche dieselbe wellenschlagend vorhanden sein;) desto mehr entfernt man sich von d wärme-strahlend und luftstrome-erregend Kern.
+Wärme und Feuchtigkeit nehmen in d ober Region ab, dagegen nehmen d Intensität d elektrisch Spannung daselbst zu.
+d Gesetz d Wärmeabnahme in d Atmosphäre sein eins d wichtig physikalisch Problem, welche Saussüre zuerst praktisch zu untersuchen anfangen haben, die aber noch weit von seine vollständig Auflösung entfernen sein.
+diese Problem haben d auffallend Einfluß, nicht bloß auf alle Betrachtung über klimatisch Verhältnis, über Geographie d Pflanze und Kultur dieselbe, sondern auch auf d Formel barometrisch Höhenmeßung, und auf d schwierig Berechnung d astronomisch Refractionen, wenn d beobachten Höhenwinkel d Gestirn klein als 10° sein.
+d Wärmeabnahme d Atmosphäre können entweder in eine gewiß Zeitepoche, z. B. an eine heiter Tag, betrachten werden, oder man bestimmen ihr Gesetz nach d Zustand d mittel jährlich Temperatur ungleich erhaben Luftschichte.
+d zweit Methode können ihr Natur nach allerdings interessant und sicher Resultat, als d erst geben, wenn d Ort d Beobachtung nicht gar zu entfernt von einander liegen, und d Erhitzung d Gebirgesebene nicht dabei einwirken.
+da man sich aber auf aerostatisch Reise hoch, als d hoch Gebirge d Erde, erheben können; da wir ferner d mittel Temperatur, aus viel täglich Thermometerbeobachtung ziehen, von keine hoch Ort, als von d Hospital d St. Gotthard, also aus 1065 Toise Höhe besitzen; und da endlich d hoch von Mensch fortwähren bewohnt Gegend auf unsere Erdekörper in Europa, (d Kloster auf d groß St. Bernhard,) nur 1246 Toise, und in Amerika, (d Meierei Antisana,) 2110 Toise hoch liegen: - so werden d erst Beobachtungsmethode auch dann noch wichtig bleiben, wenn d wissenschaftlich Menschenkultur auf hoch Gebirge in irgend eine Land beträchtlich zunehmen sollen.
+d unsterblich Lambert haben in seine Pyrometrie, und früher noch in d Schrift unsere Akademie für d Jahr 1772, d Problem d Wärmeabnahme theoretisch untersuchen.
+er setzen fest, dass bis zur Höhe d Brocken 1° R. Wärmeabnahme zu 52 Toise, vom Brocken bis zur Höhe d Ätna zu 70 Toise, und hoch hinauf zu 84 Toise Höhenunterschied gehören.
+diejenige, welche diese Annahme bestreiten haben, scheinen zu vergessen, dass diese tiefsinnig Mathematiker bloß d Wirkung d strahlend Wärme, die er d Aufsteigen d spezifisch leichtern Wärmestoff nennen, in Anschlag bringen wollen.
+Saussüre ziehen aus seine in d Schweizer und italienisch Gebirge angestellt Beobachtung d Schluß, dass d Wärmeabnahme eine arithmetisch Progression befolgen, und dass in d mittel Breite von 44 bis 46°, eine Höhenunterschied von 100 Toise im Sommer, und von 150 Toise im Winter, eine Temperaturveränderung von eine Grad d Reaumür'schen Thermometer begründen.
+bei Saussüre's Besteigung d Ätna im Jahr 1773 finden sich 114t, bei d Reise nach d Gipfel d Montblanc aber nur 90t,8 für 1° r.
+d Gesetz d Wärmeabnahme im Winter sein, bei d Mangel an genau Beobachtung, unsicher, als d Gesetz für d Sommer; doch scheinen mehrere Erfahrung zu lehren, dass d Winterkälte d ober Luftregion gering sein, als man es nach d im Sommer bemerkt schnell Wärmeabnahme vermuten sollen.
+sein diese Verminderung d Temperatur in alle Jahreszeit dieselbe, so müssen z. B. auf d Kloster d St. Bernhard d Thermometer jede Mal auf −20° herab sinken, wenn es an d Ebene auf 5° stehen; und doch sein diese sehr tief Thermometerstand auf hoch Berg nicht sehr häufig.
+nur im Frühjahr, wenn d Schnee in d tief Tal bereits schmelzen sein, und noch d hoch Alpengipfel bedecken, sein d Wärmeunterschied zwischen d Ebene und d Gebirge so auffallend groß, dass man dann statt 150 Toise, bisweilen nur 10 bis 27 Toise Höhenunterschied auf 1° R. rechnen können.
+als ich mich im Monat Mai d verflossen Jahr mit Herr Gay-Lussac 5 Tag in d Hospiz d Mont-Cenis aufhalten, um daselbst einige Versuch über d magnetisch Schwingung und d chemisch Beschaffenheit d Bergluft anstellen, sehen wir d Thermometer ununterbrechen 12 bis 15° tief, als in Lanslebourg, obgleich d Ho-Henunterschied beide Ort kaum 324 Toise betragen.
+d Wärmeabnahme müssen daher im Winter nur in Zeit messen werden, wenn d tief Region noch mit Schnee bedecken sein.
+und zu eine solch Zeit sein sie langsam als im Sommer, nicht bloß, weil vielleicht d hoch Schichte d Äquatorialluft dann schnell gegen d Pole hinströmen, und unsere ober Atmosphäre erwärmen, sondern auch, (und die sein wohl d vorzüglich Grund,) weil d Erdeoberfläche in unsere Klima von d schiefern Sonnenstrahl treffen, im Winter wenig erwärmt Luft, und fast gar keine strahlend Wärme in d hoch Region schicken.
+d Temperaturunterschied zwischen diese und d unter Luftschichte sein dann, eben deshalb, gering als im Sommer, indem dann d ganz Atmosphäre sich d Zustand d oben betrachten kernlos Luftsphäroid nahen.
+d Erdball können, wo er in Schnee hüllen sein, nur wenig auf d nah Luftschichte wirken.
+wo er Wasser bedecken, oder wo er d Winter über, (wie im südlich Europa,) schneelos bleiben, da sein sein wärmend Einfluß keine andere, als d, welche durch d, jede Planet eigentümlich Temperatur begründen werden.
+d langsam Wärmeabnahme im Winter lassen sich daher aus theoretisch Grund leicht einsehen.
+dass d astronomisch Strahlenbrechung, selbst nach Korrektion von Luftelastizität und Temperatur, bei heiter Wintertag stark als bei heiter Sommertag finden werden, sein auch Folge diese langsam Wärmeabnahme im Winter.
+wie viel diese letztere aber betragen, ob Saussüre's Vermutung von 150 Toise für 1° R. richtig sein, die müssen erst vervielfältigt Beobachtung, besonders aerostatisch Winterreise aufklären.
+meine eigen Beobachtung in heissen Klima weichen etwas von d Saussüre'schen Angabe d Wärmeabnahme im Sommer ab, stimmen aber, für sich betrachten, sehr schön mit einander überein.
+d vorteilhaft Fall sein d, wenn man sich auf eine isoliert stehend Berg erheben, und wenn d Höhe selbst so beträchtlich sein, dass eine klein Fehler in d bemerkt Unterschied d Temperatur zweier Station d Quotient wenig verändern.
+sein d Berg von gering Höhe, z. B. nur 400 bis 500 Toise über d Meer erhaben, sein d Ort d korrespondierend Beobachtung sehr entfernt, haben d Gebirge eine beträchtlich Maß oder gar auf seine Kuppe eine weit Ebene, in die d strahlend Wärme wirksam werden; so sein d Versuch wenig zu trauen.
+eben wegen diese lokal Schwierigkeit können ich, trotz meine viel Reise in d Andenkette und ander hoch Gebirge, doch nur eine gering Zahl von Beobachtung auswählen, die zu sicher Resultat führen.
+[Herr Von Humboldt teilen diese Beobachtung in alle d Detail mit, welche zur Beurteilung d Resultat in jede einzeln Falle zu wissen nötig sein.
+jede störend Einfluß, Wind, Wärmestrahlung, Seeluft und andere, ziehen er, so weit sie sich beobachten lassen, sorgfältig zu Rate, und hierdurch werden diese Auszug aus seine Beobachtungsregister nicht wenig belehrend.
+als eine Beispiel d Behandlung mögen hier eine einzig seine Beobachtung stehen, nämlich d auf d hoch Bergspitze bei Caraccas an d Nordküste d südlich Amerika.
+G.]
+d 1sten Januar 1800 besteigen wir, Herr Bonpland und ich, d groß Sattelberg von Caraccas, La Silla oder Cerro De Avila nennen; eine ungeheuer Glimmerschiefergebirge, welche d Seefahrer in 30 bis 35 Seemeile Entfernung, d nördlich Küste von Südamerika, und d Lage d Hafen von La Guayra kenntlich machen.
+ausser d mit ewig Schnee bedeckt Sierra De Santa Martha, östlich von carthagena de indias, geben es an d ganz Küste d Terra Firma keine hoch Gebirge als d Silla.
+d Thermometer, nahe an d berufen fürchterlich Absturz gegen Caravalleda, (eine fast senkrecht Abgrund von 9800 Fuß,) zeigen 11° r.
+in d Guayra, am Meeresufer, sein, nach d Bestimmung d Don Joseph Herera, d gleichzeitig Temperatur 22°.
+Höhe d Berg nach meine barometrisch Meßung, (d trigonometrisch haben ich noch nicht Zeit haben zu berechnen,) wenigstens 1336 Toise.
+also Wärmeabnahme 121t,4 auf 1° R. Wind, Nordost, vom nah Meer her; also sehr erkältet Luftschichte zuführen.
+d Resultat scheinen zu bestätigen, was so eben von d Wirkung d wenig wärme-strahlend Ozean bemerken werden.
+d Wärmeabnahme müssen etwas beschleunigen scheinen, wenn man d tief oder unter Landluft mit hoch Seeluft vergleichen.
+doch sein d Resultat nur um 3 Toise von meine Beobachtung auf d Pic von Teneriffa verschieden.
+Breite d Silla De Caraccas 10° 37' nördlich.
+- mit diese Wärmeabnahme von 121 Toise auf 1° R. stimmen ziemlich genau eine Beobachtung überein, welche ich auf eine Fußreise von Caraccas nach d Hafen La Guayra machen haben.
+ich ersteigen d Fort de la cuchilla, welche fast in d Höhe d schlesisch Schneekoppe, am Gebirge Avila, zur Beschützung d Stadt Caraccas anlegen sein.
+Höhe 766 Toise.
+Abend, Thermometerstand 15°,2; unten an d Küste 22°. Seewind.
+Wärmeabnahme 114,1 Toise.
+- berechnen man d Wärmeabnahme auf d Silla nicht nach Gegenbeobachtung in d Ebene, sondern nach d in d Tal von Caraccas angestellt, (welche schon 435 Toise über d Meeresfläche erhaben sein,) so erhalten man eine gar zu klein Resultat.
+wir werden in d Folge sehen, dass auch in d Andenkette d Wärmeabnahme stets schnell erscheinen, wenn man d Luftschichte hoch Gebirgesebene mit die d Berggipfel vergleichen.
+diese gebirgeseben oder eng Tal, wie die von Caraccas, erhitzen sich nämlich um Mittag, und ihr Temperatur sein dann in eine Teil d Tag hoch, als sie nach d senkrecht Höhe d Ort sein sollen.
+in d Stadt Caraccas stehen d Thermometer auf 19°, während es auf d Silla 11° zeigen.
+hieraus folgen eine Wärmeabnahme von 112,6 Toise auf 1° R. statt 121 Toise, welche dieselbe Beobachtung geben, wenn man sie mit d in d Ebene d Meer bemerkt Temperatur vergleichen, und statt 118 Toise, welche meine Beobachtung auf d Pic De Teyde geben. - - -
+[in d folgend Tafel sein alle Beobachtung d Herr Von Humboldt, [samt eine Paar fremd,] welche er für zuverlässig anerkennen, und d Resultat, auf die sie führen, zusammen stellen.
+ich haben in d Anmerkung einige d Hauptumstand aus d hier übergehen Detail d Beobachtung, welche zum Verständnis und zur Beurteilung dieselbe nötig sein, hinzu fügen.
+G.]
+Name d Ort.
+geographisch Breite.
+Höhe über d Meer.
+Thermometerset.
+Wärmeunterschied.
+Wärmeabnahme oder Höhenveränderung für 1° R. Wärme.
+Beobachter. oben. im Niveau d Meer.
+pic von teneriffa 28° 17' n. 1901t 2°,2 r. 18°,3 r. 16°,1 r 118t,3 Ht. jun. 22 1799 9,3 24°,5 15,2 125,3 Lamanon aug. 24. 1785 cofre de perote 19 29 n. 2066 1,7 19,4 17,7 116,3 Ht. febr. 7. 1804 nevada de toluca 19 6 n. 2364 3,5 22 18,5 127,8 Ht.
+sept. 29. 1803 silla de caraccas 10 37 n. 1336 11 22 11 121,4 Ht. jan. 1. 1801 fuerta de la cuchilla 10 33 n. 776 15,2 22 6,8 114,1 Ht.
+guadaloupe 4 36 n. 1646 8,5 22 12 137* Ht. Jul. 25. 1801 montserrate 4 36 n. 1692 10 22 13,5 124,6 Ht. Aug. 15. 1801 Gipfel d Pichincha 0 14 s.
+2415 3 22 19 130,9 Ht. apr. 14. 1802 2488 4,1 22 17,9 139* Ht.
+Mai 28. 1802 chimboraco 1 28 s.
+3012 −1,3 23,3 23,3 129,3 Ht. Jun. 23. 1802 [über Paris 48 50 n. 3580 −7,6 24,5 32,1 111,5 Gay-Lussac Sept. 16. 1804] Üb. P. [ 22,2 29,8 120,1] I. P. [Ätna 38 n. 1713 +3,5 18,5 15 114 Saussure Jun. 5, 1773] [d Mittel mit Ausschluß d beide * sein 121,1]
+Vergl. Annalen, xvi, 394, und iv, 144)
+d Wind sein westlich, führen also keine erhitzt Luft d nah afrikanisch wissen herbei, wie die d Fall sein, als Labillardiere d 17ten Oct. 1791 am Rand d Krater bei Südensüdostwind, d Thermometer auf 15° und kaum 7°,5 niedrig als in Santa Cruz stehen sehen.
+Beobachtung in Santa Cruz geben d Wärmeabnahme um 21 Toise klein, weil hier d Thermometer wegen d Nähe wärmestrahlend Felsmasse immer 3 bis 4° hoch als in d Orotava im Niveau d Meer stehen. G.
+diese beide mexikanisch Beobachtung erklären Hr. Von Humboldt für vorzüglich sicher, da sie auf schroff turmähnlich Berg anstellen werden, und d vergleichen Luftschichte fast senkrecht über einander liegen.
+eine heftig nördlich Seewind erniedrigen bei d erst d Temperatur d ober Luftschicht eine wenig.
+G.
+zwei berühmt Wallfahrtskapelle auf d steil Felswand d Andenkette, östlich von St. Fe De Bogota.
+d Thermometerstand in d Ebene d Meer beruhen auf d Erfahrung, dass sie um diese Jahrszeit sich dort um keine 2° ändern.
+G.
+beide Gipfel stehen am westlich Rand d Andenkette, auf d lang gestreckt mit einzeln grotesk Klippe besetzt Gebirgesrücken d Pichincha, am schauderhaft jäh Absturz nach d Ebene an d Südensee.
+d hoch Gipfel, (Rucu-Pichincha,) enthalten d Krater.
+beide Tag sein überaus heiter und schön.
+bei d mit eine * bezeichnet Beobachtung bemerken Herr Von Humboldt, dass in diese Zone damals eine Irrtum von 6° F., (2_2/3° R.,) in d [bloß geschließen?] Temperatur an d Meeresküste wohl möglich sein sein; eine solch Irrtum werden aber doch nur 16 Toise Unterschied im Resultat bewirken Haben. G.
+(Vergl. Annalen, xvi, 469.) zu Calpi, eine indianisch Dorf in eine weit Gebirgesebene am Fuß d Koloß, 1630t über d Meer, stehen zu gleich Zeit d Thermometer auf 12°; eine Beweis, dass diese Ebene eine hoch Temperatur annehmen, als sie nach ihr Lage zukommen.
+d Tag sein Neblig. G.
+- -
+d Resultat alle diese Beobachtung, welche ich, [sagen Herr Von Humboldt,] zwischen d Wendekreis anstellen haben, schwanken zwischen 114 und 130 Toise; und beweisen also, dass man sich dort um ungefähr 122 Toise erheben müssen, um d Temperatur um eine Grad d Reaumür'schen Thermometer verändern zu sehen.
+da in d Tropenland eine regelmässig Wind, die d Erderotation, oder d Passatwind herrschen, und da alle Wetterveränderung daselbst innerhalb sehr eng Grenze einschließen sein, so dürfen man sich nicht über d groß Übereinstimmung wundern, welche d Beobachtung bei so ungleich hoch Luftsäule, von 800 bis 3000t geben.
+d Text d Anmerkung 4) sehen S. 28/29 .
+d Text d Anmerkung 5) sehen S. 28/29 .
+im Sommer, besonders 2 bis 3 Stunde nach d Kulmination d Sonne, wenn an heiter Tag d aufsteigend warm Luft d ober Schichte d Atmosphäre gleichmäßig erwärmen haben, scheinen d Wärmeabnahme in unsere gemäßigt Zone, in d mittel Breite von 45 bis 50°, dasselbe Gesetz als unter d Äquator zu befolgen.
+d groß aerostatisch Reise meine Freund, Herr Gay-Lussac, welche über d magnetisch Phänomen und d chemisch Beschaffenheit d hoch Luftregion so vieles Licht verbreiten, haben wir auch d wichtig Resultat über d Abnahme d Temperatur in d Atmosphäre liefern.
+als diese eben so erfahren als genau Beobachter am 16ten Sept. 1804 sich über Paris zu d ungeheuer Höhe von 3580 Toise, (3600t über d Meer,) also fast 2000 Fuß hoch als d Gipfel d Chimboraco, erheben, treffen er daselbst Luftschichte an, in welchen eine Winterkälte von 7°,6 R. unter d Gefrierpunkt herrschen, während wir zu Paris d übermäßig Hitze von 24°,5 R. erleiden.
+d Wärmeunterschied betragen hiernach 32°,1 R., und d Wärmeabnahme 111t,5 auf 1° R., also nur 6t,8 wenige als d, welche ich auf d Pic von Teneriffa beobachten haben.
+betrachten man aber d Luftsäule, welche Herr Gay-Lussac durchlaufen, als aus zwei ungleich Teil bestehend, so ergeben sich, dass von d Ebene an bis zu d Höhe von 1900t, also bis zur Höhe d Pic von Teneriffa, d Wärmeabnahme voll 123t auf 1° R. betragen, dass aber von diese Höhe bis über d Gipfel d Chimboraco hinaus oder bis 3600t, d Wärmeabnahme so schnell sein, dass 91t zu 1° verändert Temperatur gehören.
+annales de Chemie, T. 52, P. 75; und diese Annalen d Physik, B. Xx, S. 19.
+als Herr Gay-Lussac in seine Aerostat d Erde um 9U. 40' morgens verlassen, stehen d Centesimalthermometer auf 273/4°, (Annalen, Xx, 23, 26,) und sein, als er sich um 3U. 11' nachmittags in d groß Höhe, 3580t über Paris befinden, in Paris bis 303/4° steigen, (die., S. 27, wo man Zeile 5 statt nicht merklich, nicht bedeutend, und Zeile 11 statt 31/2°, 3° lesen; und S. 28, wo man in Zeile 15 d Wort: bei meine Abfahrt, wegstreichen.)
+in jen groß Höhe stehen es auf 91/2°.
+nach d Reaumür'schen Scale betragen diese Thermometerstand 22°,2; 24°,5; 7°,6; aus d beide letzte folgen d obig Wärmeabnahme 111t,5 für 1° R. - in 1894t Höhe über Paris stehen bei d Ansteigen d Thermometer auf 6°,8 R.; und diese Sinken um 15°,4 R. entsprechen eine Höhe von 123t für jede Grad Reaum.
+Wärmeabnahme.
+d Ursache, welche d Temperatur d Luft an d Erdefläche von 10 bis 3 Uhr allmählich um 2°,3 R. erhöhen, wirken schwerlich in so kurz Zeit bis zu eine Höhe von 3580t merklich erwärmen in d Atmosphäre hinauf.
+sollen daher d Temperatur hier nicht auch um 10 Uhr wie um 3 Uhr nahe 7°,6 R. betragen haben? und sollen diese Vormittagsstunde, wo d Temperatur d mittel d Tag nah kommen, nicht schicklich, als d Stunde d groß Hitze, zur Bestimmung d Wärmeabnahme in d Atmosphäre sein sein?
+in diese Falle werden d Beobachtung d Herr Gay-Lussac für d Region von 1893 bis 3580t d Wärmeabnahme zu 117t auf 1° R., also nahe dieselbe als für d unter 1900t gehen.
+d Wärmeabnahme in d ganz Luftsäule von d Erde ab rechnen, finden sich dann zu 120t,1 auf 1° R., ganz übereinstimmend mit d, was Hr. Von Humboldt aus seine Beobachtung in Amerika folgern, und dass sie um 3 Uhr nachmittags sich etwas klein zeigen, werden für eine Beweis mehr d Einfluß zu nehmen sein, welchen erwärmt Ebene auf d Bestimmung d Wärmeabnahme haben.
+(Vergl. S. 35 unten, und S. 44 unten.)
+folgend Thermometerstand, welche Herr Gay-Lussac heraus heben, 4°,2, 0°,4 R. in 2566t, 2912t Höhe, und 0°, 7°,6 R. in 2889t, 3580t Höhe, geben zwar eine ganz gleich Wärmeabnahme für diese hoch Luftregion, erstere von 91t,1, letztere von 91t für 1° R.; allein diese Zusammentreffen können doch nur zufällig sein.
+heben man ander Beobachtung aus, so erhalten man bedeutend verschieden Zahl.
+mit zunehmend Höhe beim Aufflug steigen d Temperatur eine paar Mal, statt zu sinken, und nicht immer finden Herr Gay-Lussac in gleich Höhe gleich Thermometerstand.
+er schreiben diese d Zurückbleiben d Thermometer hinter d Temperatur d Luft zu; da aber doch kalt oder warm Luftstrom eben so gut Anteil daran haben können, wie diese weiterhin Herr Von Humboldt bemerken, so müssen, dünken ich, wenigstens d Richtung d Wind in d verschieden Station genau beobachten werden sein, ehe wir aus Thermometerstand in Höhe, die vielleicht noch in d Region solch Strömung sein, und nur wenig von einander abstehen, einige Masse zuverlässig Schluß über d Gesetz d Wärmeabnahme ziehen können.
+Gilb.
+diese Beschleunigung d Wärmeabnahme in d hoch Luftschichte sein d von Lambert in d Pyrometrie aufgestellt und schon von Saussure angegreifen, allerdings etwas einseitig Theorie entgegen.
+sie erklären sich aber keineswegs aus d Einfluß d wärme-strahlend und warm Luft aufwärts sendend Erdefläche.
+wo diese Einfluß im Aufhören sein, d. h., eine unendlichklein werden, wo d Wärme d Luftkreis groß Teil nur noch von d Lichtverschluckung (extinction de la lumière) abhängen beginnen, da scheinen d Kälte d Luftschichte langsam zunehmen, ja diese Zunahme d Luftdünne proportional sein zu müssen.
+ehe man eine Beschleunigung d Wärmeabnahme in d hoch Region d Atmosphäre annehmen dürfen, müssen dieselbe durch mehrere übereinstimmend Beobachtung begründen werden.
+denn d Luftreise, welche von genau und gelehrt Beobachter anstellen werden sein, die eine Charles, Guyton, Biot und Gay-Lussac, lehren, dass bis zur Höhe d Ätna d Temperatur d Luftschichte in unsere europäisch Klima, (d Winde und ander zufällig Ursache wegen,) sehr unregelmässig scheinend Veränderung aussetzen sein.
+je hoch man sich aber hinauf schwingen, desto mehr hören d Ursache diese Anomalie auf.
+wenn man übrigens aus meine eigen Beobachtung, die ich zwischen d Wendekreis anstellen haben, auf eine analog Beschleunigung d Wärmeabnahme in groß Entfernung von d Meeresfläche schließen wollen, so werden man sich durch Nichtbeobachtung d Lokalverhältnis zu eine Fehlschluß verleiten lassen.
+allerdings finden ich bei d Besteigung d Chimboraco 119 Toise für 1° R., wenn ich d ganz Luftsäule von 18072 Fuß als eine Ganze betrachten.
+Teil ich sie hingegen in zwei Teil, so finden ich für d erst 9780 Fuß von d Meeresfläche bis zum indianisch Dorf Calpi, 166 Toise, und von Calpi bis zu unsere hoch Standpunkt am Bergrücken, (also in d letzte 8292 Fuß,) 103 Toise für 1° R. Wärmeabnahme.
+ähnlich Verschiedenheit geben d Beobachtung auf d Silla De Caraccas, in d Kapelle bei Santa Fe, und auf d Vulkan von Toluca, je nachdem man sie über d Meeresfläche, oder über d Tal von Caraccas, von S. Fe De Bogota und von Toluca berechnen.
+in alle diese Fall entstehen d Schein eine Beschleunigung d Wärmeabnahme offenbar nur aus d Umstand, dass d Tal, in die Calpi, Caraccas, S. Fe und Toluca liegen, weit gedehnt selig Ebene sein, welche sich stark erhitzen, als d steil Abhang eine Gebirge, oder als Luftschichte, welche, statt eine hervor ragend Teil d Erdefläche unmittelbar zu berühren, auf ander Luftschichte ruhen.
+da d hoch amerikanisch Gebirgeskette d peruanisch und mexikanisch Anden bis zur Höhe d St. Gotthard eine ungeheuer Maß haben, da sie bis zu diese Höhe Fläche von 120 Geogr. Quadratmeile bilden, so sein bis zu d bewohnt Höhe d Anden d Wärmeabnahme langsam, dann aber plötzlich schnell, in die 1800 bis 2000 Toise hoch Bergschicht, wo d Gebirgesmasse abnehmen, und kegelförmig Gipfel sich auf eine breit Grundfläche isolieren erheben.
+diese Umstand erklären d mittel Temperatur, welche, wie sie aus wirklich Beobachtung folgern werden, in meine Naturgemälde d Tropenwelt auf eine Thermometerscala aufzeichnen sein.
+Pflanze heiß Erdestrich steigen da am hoch in d Gebirge aufwärts, wo d Maß d Andenkette am groß sein.
+Villar haben längst ähnlich Bemerkung über d Geographie d Alpenpflanze in d Dauphine machen.
+Saussure voyage dans les alpes, §. 936.
+in eine Abhandlung, welche ich zu Paris in d Sitzung d erst Klasse d Nationalinstitut am 26sten Novbr. 1804 vorlesen, haben ich bereits entwickeln, wie über d Höhe d Montblanc hinaus, also in eine Region, wo d Einfluß d strahlend Wärme sehr gering sein, im Sommer in 49° nördlich Breite, und unter d Äquator, gleich kalt Luftschichte in einerlei Höhe liegen.
+d Vergleichung von Herr Gay-Lussaces Beobachtung auf seine groß Luftfahrt, und d meinige am Chimboraco, geben diese auffallend Resultat:
+d Unterschied betragen nicht mehr als 0°,7.
+auch herrschen damals in d Ebene d nördlich Frankreich eine Hitze, welche d Temperatur d Tropenland gleich sein.
+Höhe Temperatur am Chimboraco über Paris 2440t +5°,2 r. +5°,8 r. +6°,6 r. 5,6 2850 2,3 1,6 2,0 3012 −1,3 −2,0 −1,2
+da d Höhe über Paris in Hrn. Gay-Lussaces Tabelle (Ann., Xx, 26,) um 20 Toise klein sein, als d Höhe über d Meer, so finden ich durch Interpolation zwischen d Zahl diese Tabelle d Thermometerstand über Paris, welche zu d in d erst Kolumne angegeben Höhe über d Meer gehören, etwas anders, als sie in d dritt Kolumne stehen, und zwar so, wie ich sie in d eingeklammert Kolumne daneben setzen haben.
+man sehen, dass diese Temperatur noch genau, als jene, mit die am Chimboraco in d hoch Region harmonieren.
+sie sein, d erst aus Zeile 9; d zweit aus Zeile 11 und 12; d dritt aus Zeile 14; d viert aus Zeile 19 und 20 d Gay- Lussac'schen Tabelle ableiten.
+Gilb.
+bis hierher haben wir zwei Mittel untersuchen, d Gesetz d abnehmend Wärme kennen zu lernen.
+Bergreise und Luftfahrt geben Resultat, welche mehr überein stimmen, als man wegen d Spiel d horizontal und senkrecht Winde erwarten sollen.
+drei ander nicht gleich zuverlässig Mittel sein: d Jahr lang beobachten mittel Lufttemperatur; d Wärme d Quelle; und d Wärme d unterirdisch Höhle, welche letztere man etwas gewagt d Wärme d Erdekörper zu nennen pflegen.
+Herr Von Humboldt bemerken über d erst diese Mittel, dass es immer nur von gering Wert für d Bestimmung d Gesetz d Wärmeabnahme in d Atmosphäre bleiben werden, es sein denn, es lassen sich auf d Höhe d Montblanc, d Pic von Teneriffa und d Ätna physikalisch Observatorja, und zwar, um stationär Luftball zu gleichen, auf spitz Kegelberg oder an senkrecht Absturz bauen, und in sie täglich korrespondierend Beobachtung über Horizontal-Refraction, Luftfeuchtigkeit, elektrisch Tension, Elastizität und Temperatur d Atmosphäre anstellen.
+in Europa sein indes d hoch Punkt, die fortwährend bewohnen werden, d Hospiz am St. gotthards- und am St. Bernhards-Paß, nur in 6390 und 7476 Fuß Höhe.
+in Amerika haben sich zwar seit d alt Zeit d Mensch noch bedeutend hoch ansiedeln; peruanisch Stadt, wie Mincuipampa und Huancavelica, liegen in 1900t Höhe, und Menschenwohnung erheben sich selbst bis 12610 Fuß, also vier Mal hoch als d groß, aber licht Wolke, welche im Sommer über unsere Scheitel hinziehen; auch werden im spanisch Amerika, wo seit La Condamine's Reise Liebe zu physikalisch Wissenschaft mehr verbreiten sein, als man in Europa selbstgefällig zu glauben wünschen, täglich Thermometerbeobachtung ziemlich regelmässig in 8 bis 9000 Fuß Höhe anstellen.
+allein d Ort, die mittel Temperatur mit einander vergleichen werden sollen, liegen zu weit von einander; sein ihr Höhe über d Meeresfläche unter 3000 Fuß, so verursachen d zufällig Variation um 1° R. schon eine übermäßig Verschiedenheit in d Resultat; und wie sollen man unter d verwickelt, d Temperatur bestimmend lokal Ursache d Einfluß d Höhe erkennen, und was d senkrecht Höhe über d Meer allein zuschreiben sein, bestimmen?
+fast alle hoch gelegen Stadt und Dorf in Amerika und Europa sein in eng Gebirgestal und auf unermeßlich weit, durch ehemalig Wasserstand geebnet Gebirgeskuppe anbauen, die sich stark erhitzen, und je nachdem man d mittel Temperatur diese hoch Gebirgesebene mit d d Küste, oder mit d noch hoch Gebirgesspitze vergleichen, erhalten man sehr verschieden Bestimmung für d Wärmeabnahme.
+ich wählen, sagen Hr. Von Humboldt, um diese Gegenstand genau zu untersuchen, vier Stadt, die mittel Temperatur und Höhe über d Meeresfläche bekennen sein: Quito, Santa Fe De Bogota, Popayan und Mexiko.
+es kommen zuerst darauf an, d mittel Wärmegehalt d Tropenregion in d Ebene d Meer fest zu setzen.
+wenn ich meine eigen fünfjahrig Beobachtung mit die vergleichen, welche Cotte in seine klassisch Werk:
+Memoire De Meteorologie, vereinigen haben, so scheinen es entscheiden, dass vom Äquator bis 60° nördl. Breite d Thermometer zu eine gleich groß Höhe steigen; dass d außerordentlich hoch Thermometerstand in d gemäßigt Klima häufig als zwischen d Tropen sein; und dass, (wenn man in d Sonne, oder mit Licht-Absorbirenden, gleichsam photoskopischen Thermometer, oder von wenig genau Beobachter angestellt Versuch ausschließen,) d Tropenklima im Innere von Asien, Afrika und Amerika gleich heissen sein.
+seitdem d Reisende mit Quecksilberthermometer versehen sein, und im Schatten, außerhalb d Reflex von Gebäude und Felswand beobachten, verschwinden nach und nach d Angabe von 33 bis 36° R. Tropenwärme, ob man gleich noch Thermometerskala sehen, auf die 50 und 60° syrisch und senegal'scher Hitze andeuten sein.
+nach Cotte fällen d mittel Temperatur d Land zwischen d Wendekreis zwischen 21° und 22°,7 R. La Condamine bestimmen sie für d Ufer d Südensee nur auf 20°.
+allerdings sein d südlich Hemisphäre unsere Erdball etwas kühl, oder vielmehr gleichmäßig mild, als d nördlich.
+doch liegen diese Unterschied mehr in d Extrem, als in d mittel Wärme.
+d Land südlich vom Äquator, besonders d d gemäßigt südlich Zone, sein wegen d groß Wassermenge d südlich Halbkugel weder so übermäßig kalt, noch so übermäßig warm, als d nördlich Region d Erde unter gleich Breiten.
+nach meine Beobachtung zu Guayaquil, eine Hafen an d Südensee, scheinen d mittel Temperatur diese Küstenland gegen 21°,3 zu betragen.
+natürlich müssen hiervon d Erdestrich zwischen Amotape und Coquimbo ausschließen werden, d westlich und sandig Teil von Peru, in die es nie regnen und donnern, und in welchem fünfmonatlich Verhüllung d Sonne durch dick Nebel eine dort empfindlich Kälte von 9 bis 10° R. erregen.
+in cumana, (10° 27' 37"; s.
+Breite,) eine wegen seine übermäßig Hitze weit berufen Ort, wo ich teils selbst beobachten, teils mit meine Instrument während d Orinoco-Reise sorgfältig beobachten lassen, sein d mittel jährlich Wärme 22°,2.
+in Vera Cruz, wo ich eine Tableau von 21000 Beobachtung d Don Bernardo De Orta durchsuchen, finden ich d mittel Temperatur zu 20°,3.
+d Breite d nah amerikanisch Kontinent und Nordsturm vermindern dort im Winter d Wärme d Klima.
+auch liegen diese Hafen schon d Wendekreis nahe, unter 19° 12' Nördl. Breite.
+dieselbe Ursache bringen d mittel Wärme d Havanna, über die ich vierjahrig Beobachtung bekannt machen werden, auf 18° R. herab; ja man sehen dort, unter 23° 9' nördl. Breite, an Ort, die nur 240 Fuß über d Meer erhaben sein, d Thermometer manchmal auf d Gefrierpunkt.
+im Jahr 1801 sinken an d kalt Tag in Lima, d 28. Julius, d 30. August und d 27. September, d Thermometer auf 11° herab.
+d warm Tag sein d 25. Febr. und 25. März zu 22° r.
+d mittel Temperatur von Lima scheinen gegen 17°, also 4° wenige zu sein, als an d Küste gelegen Ort diese Geogr. Breite zukommen.
+eine vortrefflich Mittel, d mittel Temperatur d Tropenregion kennen zu lernen, bieten d Oberfläche d Ozean dar, nämlich da, wo seine Wärme weder durch Untiefe noch durch Strömung modifizieren sein.
+ich arbeiten an eine Karte über d Temperatur d Meer, zu die ich außer meine eigen Versuch eine Menge von Beobachtung benutzen, welche spanisch Seeoffizier auf meine Bitte in d südlich Halbkugel anstellen haben, und noch anstellen.
+nicht bloß d bekannt, von Franklin, Williams und Pownall untersuchen Golf-Strom, welche d warm Wasser d mexikanisch Meerbusen über d Bank von Neufoundland führen, sondern auch eine Strom kalt Gewässer, die wir in d Südensee finden haben, sollen darauf verzeichnen werden; eine Strom, welche an d Küste von Chile und Peru hinfließen, und sich beim Kap Parinna gegen Westen wenden.
+außerhalb diese Strömung finden ich d Meer in d d Äquator nah Zone zwischen 20°,6 und 22°,5.
+d Enderesultat alle diese Beobachtung sein, dass man d mittel Wärme d Ebene d Meer zwischen d Parallele 10° nördlich und südlich von d Linie, auf 21°,5 und zwischen 10° und d Wendekreis auf 20°,8 anschlagen können.
+Kirwan's Annahme von 23° für d Äquator sein demnach zu hoch.
+Phys. Chem. Schrift, nach Crell's Übersetzung, B. 3, S. 132.
+mit sie vergleichen nun Hr. Von Humboldt d mittel Temperatur d oben genennt in groß und hoch Gebirgesebene gelegen Stadt.
+d Höhe d Stadt Quito, (0°,13' 17"; s.
+Br.,) sein nicht, wie sie La Condamine und Bouguer bei Berechnung d Berghöhe annehmen, 1462t, sondern barometrisch messen und nach La Place's Formel berechnen 1500t.
+d Thermometer sehen Hr. Von Humboldt bei seine sechsmonatlich Aufenthalt daselbst oft d ganz Morgen über zwischen 5° und 9° r.
+besonders seit d fürchterlich landverheerend Erdbeben von 1797 sein d ganz Klima d Gegend merklich kalt werden, als es zu La Condamine's Zeit sein.
+d mittel Temperatur, die er, doch, wie es scheinen, nach keine genau Journal, auf 13°,7 setzen, scheinen gegenwärtig nur auf 12°, also unter d von Rom zu stehen.
+d Unterschied mit d nah Küstenland betragen hiernach 9°,5 R., und d Wärmeabnahme 157t auf 1° r.
+auf ähnlich Weise berechnen, erhalten man sie für St. Fe De Bogota 163t, für Mexiko 160t, für Popayan 168t. St. Fe De Bogota, d Hauptstadt d KoNigreichs Neu-Granada, liegen 1356t über d Meer; mittel Temperatur 13°,2.
+d Höhe von Mexiko nach meine Beobachtung sein 1173t, d mittel Temperatur 13°,5; Nördl. Breite 19° 26' 2". Popayan, d Sitz eine Bischof, liegen in d anmutig Tal d Caucaflusses, am Fuß zweier schneebedeckt Vulkan, Sottara und Purace; Höhe 840t; d Klima überaus angenehm; mittel Temperatur nach Doktor Calda's Beobachtung 16°,5; Nördl. Breite 2° 24' 33";.
+in alle diese Beobachtung zeigen sich, wie man sehen, eine bewundernswürdig Harmonie.
+alle geben d Wärmeabnahme von 157 bis 168t auf 1° R., und beweisen dadurch gleichmäßig d Einfluß d Erhitzung und d strahlend Wärme groß Gebirgesebene.
+diese Einfluß erklären, warum man in d Andenkette nahe am Äquator noch in 800t Höhe d Klima, oder wenigstens d mittel Temperatur von Algier, und in 1400t Höhe d mittel Temperatur von Rom und Florenz finden.
+was d zweit d oben erwähnt Mittel betreffen, d mittel Wärme eine Gegend ausmitteln, nämlich d Temperatur d Quelle, so haben, wie d Verfasser bemerken, Herr Von Buch, die diese sinnreich Verfahren neuerlich in diese Annalen, B. Xx, S. 343, wieder gründlich empfehlen, auf seine Reise durch d Schweiz und Italien mehrere Beobachtung sammeln, welche in beträchtlich Höhe anstellen sein, und für d Zuverlässigkeit diese Mittel zu zeugen scheinen.
+allein in steil und groß Höhe, wo sich entweder d Schneewasser rasch tief Quelle beimischen, oder wo diese Quelle ihr Ursprung in hoch Region nahe sein, werden es unzuverlässig, und solch Gebirgesquelle zeigen eine gering Temperatur, als d Gegend, wo sie ausbrechen, im Mittel zukommen.
+John Hunter, d Cavendish veranlassen haben, auf d blau Gebirge von Jamaika d Wärme d Quelle zu messen, finden sie vom Meer an bis zu eine Höhe von 1400 Yard, (gleich 653t,) von 21°,3 allmählich bis 13°,3 abnehmen.
+nun sein, nach Edward's History Of Jamaica, Vol. i, P. 184, d Gipfel d blau Berg nur 7431 Engl. Fuß (1161t) über d Meeresfläche erhaben.
+d Quelle bei Mr. Wallen House scheinen also d groß Kälte von 13° vom Gipfel selbst zu haben.
+in d Gebirge von Cumana und Caraccas haben ich mehrere ähnlich Beobachtung über d Temperatur d Gebirgesquelle anstellen, und ebenfalls diese Quelle stets kalt finden, als man nach ihr Höhe haben vermuten sollen; so z. B. eine Quelle in 680t Höhe von 13°,2, eine ander in 505t Höhe von 13°,5, und eine dritt in 392t Höhe von 16°,8 Wärme.
+alle sein also wenigstens 3° kalt, als sie es nach d mittel Temperatur d Gegend sollen, wo sie ausbrechen.
+philosophical transact. of the roy. soc. of lond. for 1788.
+so wie d Quelle, da, wo sie langsam in weit Gebirgesebene fließen, d wahr mittel Wärme anzeigen, so erkennen man diese auch in d Temperatur d Höhle.
+wie schwer es indes sein, diese so genennt inner Erdewärme ausmitteln, und wie sehr Lokalverhältnis darauf einwirken, die haben ich bereits in meine Schrift über d unterirdisch Gasart durch Versuch zeigen.
+da diese Erdewärme gewöhnlich in Keller oder in Bergwerk auf Querbruch und abgewerfen zimmerungslos Stelle beobachten werden, so haben man bald mit äußer Luftwechsel, bald mit Verdampfung d naß Gestein, bald mit luftausblasend trocken Kluft, bald mit Wärmeentbindung d sich zersetzend gang- und Gebirgesart zu kämpfen.
+wenn eine Physiker mehrere Jahr lang auf d Rücken d hoch Andenkette leben, so sein es allerdings eine herrlich Unternehmen, von 500 zu 500t am Gebirgeshang Querschlag in dürr Porphyrfelsen treiben zu lassen, um dort d Temperaturabnahme zu beobachten.
+leider aber sein Unternehmung diese Art für Reisende unmöglich; sie sehen sich in ihr Beobachtung auf Höhle und Bergwerk einschränken, wie sie sie d Natur und Kunst zufällig darbieten. - -
+[hier von die, welche Herr Von Humboldt in seine Abhandlung mitteilen, nur zwei Beobachtung jede Art:]
+Höhle.
+Thermometerstand in d Kalkhöhle östlich von d Stadt Havanna, kaum 10t über d Meeresfläche, 18°,3 R.; d äußer Luft 21° R. - Temperatur d Höhle Guacharo beim Kloster Caripe in 505t Höhe, und 10° 12' nördl. Breite, 15° R.; d in ihr entspringend Flußchen 13°,5; d äußer Luft 13°.
+Grube.
+Temperatur d mexikanisch Grube S. Ygnacio bei Tehuilotapec, in 840t Höhe und 18° 38' nördl. Breite, unter sehr günstig Umstand, 19°,5; d Grubenwasser 16°; d äußer Luft 17°.
+- Temperatur d peruanisch Grube La Guadaloupe bei d Stadt Micuipampa in 1840t Höhe und 6° 45' südl. Breite, 11°5; d Grubenwasser 9°; d äußer Luft 4°,5.
+in alle diese Beobachtung, bemerken Herr Von Humboldt, über d so genennt inner Wärme d Erde sein zwar d Einfluß d Höhe nicht zu verkennen; im Ganze sein d Resultat aber doch zu ungleich, um sie über d Gesetz d Wärmeabnahme entscheiden zu lassen.
+wir haben jetzt alle Hilfsmittel untersuchen, durch welche man zu d Kenntnis diese Gesetz gelangen können. - -
+d Resultat, zu welche sie uns führen, sein, wie man aus d Tafel S. 28 ersehen, dass man sich 121t,1 erheben müssen, um d Temperatur eine Luftschicht um 1° R. vermindern zu sehen.
+diese Gesetz scheinen für d Tropenland und für unsere europäisch Klima im Sommer fast gleichgültig zu sein.
+vielleicht sein d Wärmeabnahme nahe am Äquator um eine Gering langsam als in Europa, welche in d groß Menge strahlend Äquatorialwärme gründen sein können.
+wie d Wärmeabnahme bei wir im Winter sein, welcher Unterschied zwischen d Tag und d Nacht Stadt finden, und ob man sie, wie ich selbst bezweifeln, als eine arithmetisch Progression im streng Sinn d Wort betrachten können; die müssen fern Versuch in d Zukunft lehren.
+d Verschiedenheit d Horizontalrefraction, welche man seit Bouguer zwischen d heissen Zone und unsere Klima annehmen, können als Einwendung gegen d Übereinstimmung gelten, die wir zwischen meine Beobachtung unter d Äquator und d europäisch Sommerbeobachtung finden haben.
+aber man dürfen nicht vergessen, dass Herr Delambre durch genau Versuch neuerlich erweisen haben, d Horizontalrefraction im mittel Europa sein viel gering, als man bisher glauben haben.
+dazu kommen, dass Bouguer's Beobachtung in Quito im Widerspruch mit die stehen, welche Le Gentil in fast gleich Breite in Asien anstellen haben.
+so lange d Astronom selbst noch nicht über d Horizontalrefraction in verschieden Breiten mit einander einig sein, sein es vorsichtig, bei d rein Ausspruch d physikalisch Versuch stehen zu bleiben.
