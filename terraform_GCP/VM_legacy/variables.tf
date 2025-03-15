@@ -1,0 +1,1 @@
+variable "GITHUB_SECRET_STRING" {}

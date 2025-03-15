@@ -1,0 +1,86 @@
+---
+apiVersion: apps/v1
+kind: StatefulSet
+metadata:
+  name: mongodb
+  namespace: coursework-ns
+spec:
+  serviceName: mongodb-service
+  replicas: 1
+  selector:
+    matchLabels:
+      app: mongodb
+  template:
+    metadata:
+      labels:
+        app: mongodb
+    spec:
+      containers:
+      - name: mongo
+        image: mongo
+        volumeMounts:
+        - name: mongodbdata
+          mountPath: /data/db
+      volumes:
+      - name: mongodbdata
+        emptyDir: {}
+
+---
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: mongodb-service
+  namespace: coursework-ns
+spec:
+  selector:
+    app: mongodb
+  ports:
+  - port: 27017
+    targetPort: 27017
+  type: LoadBalancer
+
+---
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: nodejs-app
+  namespace: coursework-ns
+spec:
+  replicas: 5
+  selector:
+    matchLabels:
+      app: nodejs-app
+  template:
+    metadata:
+      labels:
+        app: nodejs-app
+    spec:
+      containers:
+      - name: piazza
+        image: markusfischer1/markus1fischer1cloud1computing1coursework:0.0.3
+        ports:
+        - containerPort: 3000
+        env:
+        - name: JWT_SECRET
+          value: "69c053b604af3e0bebc0d0ca18394a373e8f17"
+        - name: MONGODB_STRING
+          value: "mongodb://mongodb-service.coursework-ns.svc.cluster.local:27017/piazza"
+        - name: BASE_URL
+          value: "http://localhost:3000/api"
+
+---
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: nodejs-service
+  namespace: coursework-ns
+spec:
+  selector:
+    app: nodejs-app
+  ports:
+  - port: 8080
+    targetPort: 3000
+  type: LoadBalancer
