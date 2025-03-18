@@ -1,0 +1,29 @@
+# Use an official Node runtime as a parent image
+FROM node:18
+
+# Set the working directory in the container
+WORKDIR /usr/src/app
+
+# Install app dependencies
+# A wildcard is used to ensure both package.json AND package-lock.json are copied
+# where available (npm@5+)
+COPY package*.json ./
+
+
+# Install any needed packages
+RUN npm install
+RUN npm rebuild bcrypt --build-from-source
+RUN npm install express mongoose body-parser \
+    npm install jsonwebtoken bcryptjs express-validator \
+    npm install axios \
+    npm install bcrypt \
+    npm install uuid
+
+# Bundle app source
+COPY . .
+
+# Your app binds to port 3000 so you'll use the EXPOSE instruction to have it mapped by the docker daemon
+EXPOSE 3000
+
+# Define the command to run your app using CMD which defines your runtime
+CMD [ "node", "piazza.js" ]
